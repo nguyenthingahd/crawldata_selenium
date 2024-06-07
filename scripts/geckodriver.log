@@ -1,0 +1,1822 @@
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/local/share/doc /usr/local/share/doc none bind,ro 0 0): cannot open directory "/usr/local/share": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/gimp/2.0/help" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme /usr/share/sphinx_rtd_theme none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/xubuntu-docs" because it would affect the host in "/var/lib/snapd"
+1717467340198	geckodriver	INFO	Listening on 127.0.0.1:51191
+1717467340666	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "58959" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZl3GLX"
+Gtk-Message: 09:15:40.685: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717467341335	Marionette	INFO	Marionette enabled
+1717467341440	Marionette	INFO	Listening on port 41421
+WebDriver BiDi listening on ws://127.0.0.1:58959
+Read port: 41421
+1717467341702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58959/devtools/browser/2bbb01c4-ad06-41e5-b7a1-c463cce3b404
+1717467342780	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1717467357176	Marionette	INFO	Stopped listening on port 41421
+1717467525670	geckodriver	INFO	Listening on 127.0.0.1:38491
+1717467526099	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "50819" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegVU1ho"
+Gtk-Message: 09:18:46.116: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717467526633	Marionette	INFO	Marionette enabled
+1717467526716	Marionette	INFO	Listening on port 40577
+WebDriver BiDi listening on ws://127.0.0.1:50819
+Read port: 40577
+1717467526960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50819/devtools/browser/0273f495-0ee3-40fd-b6cd-1d882608015d
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717467557214	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717467876893	geckodriver	INFO	Listening on 127.0.0.1:55191
+1717467877334	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "33787" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletAJZ5y"
+Gtk-Message: 09:24:37.352: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717467877887	Marionette	INFO	Marionette enabled
+1717467878003	Marionette	INFO	Listening on port 34431
+WebDriver BiDi listening on ws://127.0.0.1:33787
+Read port: 34431
+1717467878266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33787/devtools/browser/81379423-a8b2-4d78-91ca-aa769ca1e78f
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717467911542	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717467981139	geckodriver	INFO	Listening on 127.0.0.1:47341
+1717467981580	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "51483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefKjoQx"
+Gtk-Message: 09:26:21.597: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717467982131	Marionette	INFO	Marionette enabled
+1717467982243	Marionette	INFO	Listening on port 44065
+WebDriver BiDi listening on ws://127.0.0.1:51483
+Read port: 44065
+1717467982492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51483/devtools/browser/9a1e6809-515b-431c-b298-2300a7fe4565
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+JavaScript warning: https://www.google.com/js/th/eo8yIiygoKfqvtgeoaRWfgFEdf0L2_IvoSOrSGqat4o.js line 2 > eval line 7349 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717467999513	Marionette	INFO	Stopped listening on port 44065
+1717468251788	geckodriver	INFO	Listening on 127.0.0.1:36459
+1717468252203	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "38801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTChz2u"
+Gtk-Message: 09:30:52.219: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717468252734	Marionette	INFO	Marionette enabled
+1717468252814	Marionette	INFO	Listening on port 41817
+WebDriver BiDi listening on ws://127.0.0.1:38801
+Read port: 41817
+1717468253066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38801/devtools/browser/4032ad56-4e90-4f8d-88e9-d6cebb65020f
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717468284464	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717468286304	geckodriver	INFO	Listening on 127.0.0.1:53089
+1717468286757	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "46761" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9yB2Yq"
+Gtk-Message: 09:31:26.775: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717468287287	Marionette	INFO	Marionette enabled
+1717468287381	Marionette	INFO	Listening on port 33733
+WebDriver BiDi listening on ws://127.0.0.1:46761
+Read port: 33733
+1717468287634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46761/devtools/browser/3e78668f-4ab8-42f1-be95-60cae1cd7810
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+1717468313266	geckodriver	INFO	Listening on 127.0.0.1:46655
+1717468313708	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "59845" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLUispu"
+Gtk-Message: 09:31:53.725: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717468314250	Marionette	INFO	Marionette enabled
+1717468314319	Marionette	INFO	Listening on port 46413
+WebDriver BiDi listening on ws://127.0.0.1:59845
+Read port: 46413
+1717468314571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59845/devtools/browser/31120076-4860-4eb5-bf11-ce73e8445a84
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717468317830	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717468346682	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+JavaScript warning: https://www.google.com/js/th/8RF9Niw07aUICNCAbe3-TNvweVXnMmbokKfNU9TTb8E.js line 2 > eval line 6163 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717468366118	Marionette	INFO	Stopped listening on port 41817
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-KMSS5EZQFG, line 156: Script terminated by timeout at:
+Bb@https://www.googletagmanager.com/gtag/js?id=G-KMSS5EZQFG:156:128
+rm@https://www.googletagmanager.com/gtag/js?id=G-KMSS5EZQFG:318:363
+an@https://www.googletagmanager.com/gtag/js?id=G-KMSS5EZQFG:326:742
+YG/<@https://www.googletagmanager.com/gtag/js?id=G-KMSS5EZQFG:586:178
+ca.Nk/<@https://www.googletagmanager.com/gtag/js?id=G-KMSS5EZQFG:533:126
+ca.Nk/c/<@https://www.googletagmanager.com/gtag/js?id=G-KMSS5EZQFG:532:420
+
+JavaScript warning: https://www.google.com/js/th/8RF9Niw07aUICNCAbe3-TNvweVXnMmbokKfNU9TTb8E.js line 2 > eval line 6679 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717468382396	Marionette	INFO	Stopped listening on port 46413
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+JavaScript warning: https://www.google.com/js/th/8RF9Niw07aUICNCAbe3-TNvweVXnMmbokKfNU9TTb8E.js line 2 > eval line 2728 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717468387349	Marionette	INFO	Stopped listening on port 33733
+JavaScript warning: https://www.youtube.com/s/player/4b63a6a1/player_ias.vflset/en_US/base.js, line 165: Script terminated by timeout at:
+g.Ia@https://www.youtube.com/s/player/4b63a6a1/player_ias.vflset/en_US/base.js:165:14
+BT/a.state.B[b]@https://www.youtube.com/s/player/4b63a6a1/player_ias.vflset/en_US/base.js:5044:66
+Lx/<@https://www.youtube.com/s/player/4b63a6a1/www-embed-player.vflset/www-embed-player.js:1880:106
+Xx@https://www.youtube.com/s/player/4b63a6a1/www-embed-player.vflset/www-embed-player.js:1916:46
+@https://www.youtube.com/s/player/4b63a6a1/www-embed-player.vflset/www-embed-player.js:1924:137
+fl/<@https://www.youtube.com/s/player/4b63a6a1/www-embed-player.vflset/www-embed-player.js:906:63
+
+JavaScript warning: https://vrtour.phenikaa-uni.edu.vn/lib/tdvplayer.js?v=1696516913413, line 533: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-R2PQVEVBPJ&l=gaDataLayer, line 573: Script terminated by timeout at:
+ca.wh@https://www.googletagmanager.com/gtag/js?id=G-R2PQVEVBPJ&l=gaDataLayer:573:42
+get@https://www.googletagmanager.com/gtag/js?id=G-R2PQVEVBPJ&l=gaDataLayer:571:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-R2PQVEVBPJ&l=gaDataLayer:571:87
+ca.Nk/c/<@https://www.googletagmanager.com/gtag/js?id=G-R2PQVEVBPJ&l=gaDataLayer:571:412
+
+1717470251254	Marionette	INFO	Stopped listening on port 40577
+1717472675641	geckodriver	INFO	Listening on 127.0.0.1:60343
+1717472676031	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "41369" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileW6xnkp"
+Gtk-Message: 10:44:36.048: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717472676593	Marionette	INFO	Marionette enabled
+1717472676677	Marionette	INFO	Listening on port 38521
+WebDriver BiDi listening on ws://127.0.0.1:41369
+Read port: 38521
+1717472676926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:41369/devtools/browser/49919c66-7367-40e6-b022-6c2baea2cc5f
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717472707628	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717472931117	geckodriver	INFO	Listening on 127.0.0.1:44563
+1717472931505	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "42761" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevZFHXi"
+Gtk-Message: 10:48:51.523: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717472932022	Marionette	INFO	Marionette enabled
+1717472932110	Marionette	INFO	Listening on port 40541
+WebDriver BiDi listening on ws://127.0.0.1:42761
+Read port: 40541
+1717472932357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42761/devtools/browser/251b9ec5-6ebb-4ff4-8356-e9b88fda9843
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:10737418241"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:10737418241"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442450945"
+JavaScript warning: https://cs.phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+EventListener.handleEvent*s@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13145
+l@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13289
+p@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13751
+p0hA/</599/e.getFID@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:14544
+bGXG/t.default@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:12471
+IKlv/he/<@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:11711
+Ii@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/framework.29f9e2f3d4a33bafbaa5.js:1:117113
++wdc/t.unstable_runWithPriority@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/framework.29f9e2f3d4a33bafbaa5.js:1:3875
+Wl@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/framework.29f9e2f3d4a33bafbaa5.js:1:57284
+Oi@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/framework.29f9e2f3d4a33bafbaa5.js:1:116574
+yl30/zi/<@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/framework.29f9e2f3d4a33bafbaa5.js:1:116485
+F@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/framework.29f9e2f3d4a33bafbaa5.js:1:2935
++wdc/k.port1.onmessage@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/framework.29f9e2f3d4a33bafbaa5.js:1:1657
+EventHandlerNonNull*+wdc@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/framework.29f9e2f3d4a33bafbaa5.js:1:1581
+l@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/webpack-50bee04d1dc61f8adf5b.js:1:563
+QCnb@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/framework.29f9e2f3d4a33bafbaa5.js:1:5912
+l@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/webpack-50bee04d1dc61f8adf5b.js:1:563
+yl30@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/framework.29f9e2f3d4a33bafbaa5.js:1:12432
+l@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/webpack-50bee04d1dc61f8adf5b.js:1:563
+i8i4@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/framework.29f9e2f3d4a33bafbaa5.js:1:6266
+l@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/webpack-50bee04d1dc61f8adf5b.js:1:563
+IKlv@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:3908
+l@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/webpack-50bee04d1dc61f8adf5b.js:1:563
+BMP1@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:1273
+l@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/webpack-50bee04d1dc61f8adf5b.js:1:563
+t@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/webpack-50bee04d1dc61f8adf5b.js:1:430
+r@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/webpack-50bee04d1dc61f8adf5b.js:1:293
+@https://cs.phenikaa-uni.edu.vn/_next/static/chunks/commons.5667339dae1fe755cc47.js:1:55
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1717472960074	Marionette	INFO	Stopped listening on port 40541
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717472962971	Marionette	INFO	Stopped listening on port 38521
+JavaScript warning: https://www.google.com/js/th/8RF9Niw07aUICNCAbe3-TNvweVXnMmbokKfNU9TTb8E.js line 2 > eval line 3406 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717472964578	Marionette	INFO	Stopped listening on port 34431
+JavaScript warning: https://www.google.com/js/th/8RF9Niw07aUICNCAbe3-TNvweVXnMmbokKfNU9TTb8E.js line 2 > eval line 4058 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717473056260	geckodriver	INFO	Listening on 127.0.0.1:49051
+1717473056541	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "49145" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKkhjfB"
+Gtk-Message: 10:50:56.558: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717473057112	Marionette	INFO	Marionette enabled
+1717473057205	Marionette	INFO	Listening on port 39147
+WebDriver BiDi listening on ws://127.0.0.1:49145
+Read port: 39147
+1717473057456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49145/devtools/browser/074284d2-0faf-48b7-9068-55371c6915c1
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717473071296	Marionette	INFO	Stopped listening on port 39147
+JavaScript warning: https://www.google.com/js/th/8RF9Niw07aUICNCAbe3-TNvweVXnMmbokKfNU9TTb8E.js line 2 > eval line 194 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717473094975	geckodriver	INFO	Listening on 127.0.0.1:55199
+1717473095043	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "50947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileU6WMbI"
+Gtk-Message: 10:51:35.060: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717473095616	Marionette	INFO	Marionette enabled
+1717473095711	Marionette	INFO	Listening on port 34387
+WebDriver BiDi listening on ws://127.0.0.1:50947
+Read port: 34387
+1717473095958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50947/devtools/browser/af4bbd5f-e659-4c94-8018-bfb624fb68d5
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+JavaScript warning: https://www.google.com/js/th/8RF9Niw07aUICNCAbe3-TNvweVXnMmbokKfNU9TTb8E.js line 2 > eval line 679 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717473104438	Marionette	INFO	Stopped listening on port 34387
+1717473151843	geckodriver	INFO	Listening on 127.0.0.1:58559
+1717473152244	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "58789" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevKMCIh"
+Gtk-Message: 10:52:32.262: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717473152787	Marionette	INFO	Marionette enabled
+1717473152887	Marionette	INFO	Listening on port 36877
+WebDriver BiDi listening on ws://127.0.0.1:58789
+Read port: 36877
+1717473153144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58789/devtools/browser/abb86fe9-ba64-4e5e-9e5c-e760ef248165
+1717473163988	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717473183351	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717473189102	geckodriver	INFO	Listening on 127.0.0.1:45765
+1717473189538	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "44587" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileD9ARQL"
+Gtk-Message: 10:53:09.556: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717473190082	Marionette	INFO	Marionette enabled
+1717473190187	Marionette	INFO	Listening on port 45473
+WebDriver BiDi listening on ws://127.0.0.1:44587
+Read port: 45473
+1717473190432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44587/devtools/browser/373b666c-2206-4099-8356-53a6872d9b2a
+1717473192901	Marionette	INFO	Stopped listening on port 36877
+1717473211970	geckodriver	INFO	Listening on 127.0.0.1:51167
+1717473212411	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "53967" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileU13gp2"
+Gtk-Message: 10:53:32.429: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717473212945	Marionette	INFO	Marionette enabled
+1717473213028	Marionette	INFO	Listening on port 40381
+WebDriver BiDi listening on ws://127.0.0.1:53967
+Read port: 40381
+1717473213292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53967/devtools/browser/eaf389b0-b3be-4bc1-91e2-5b8d7affc7c3
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717473220143	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717473222119	Marionette	INFO	Stopped listening on port 45473
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717473243488	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717473430741	geckodriver	INFO	Listening on 127.0.0.1:57799
+1717473431147	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "53759" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilembhT4V"
+Gtk-Message: 10:57:11.165: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717473431678	Marionette	INFO	Marionette enabled
+1717473431795	Marionette	INFO	Listening on port 33151
+WebDriver BiDi listening on ws://127.0.0.1:53759
+Read port: 33151
+1717473432042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53759/devtools/browser/9c9c0c27-d317-4b4a-9642-4e36c0e1a4f9
+1717473437639	Marionette	INFO	Stopped listening on port 40381
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717473461696	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "Unable to find target with innerWindowId:6442450945"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1717473499911	Marionette	INFO	Stopped listening on port 33151
+1717473507416	geckodriver	INFO	Listening on 127.0.0.1:45509
+1717473507846	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "55803" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJnywHW"
+Gtk-Message: 10:58:27.864: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717473508381	Marionette	INFO	Marionette enabled
+1717473508453	Marionette	INFO	Listening on port 43721
+WebDriver BiDi listening on ws://127.0.0.1:55803
+Read port: 43721
+1717473508704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55803/devtools/browser/872bc822-9192-4b28-b7ee-46daa7e36ba2
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717473538919	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717473600886	geckodriver	INFO	Listening on 127.0.0.1:49015
+1717473601310	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "54211" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileODTrmk"
+Gtk-Message: 11:00:01.326: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717473601844	Marionette	INFO	Marionette enabled
+1717473601933	Marionette	INFO	Listening on port 38085
+WebDriver BiDi listening on ws://127.0.0.1:54211
+Read port: 38085
+1717473602198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54211/devtools/browser/251b8846-7064-49c9-9891-bbc8a8813709
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717473634651	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717473635753	geckodriver	INFO	Listening on 127.0.0.1:49735
+1717473636201	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "45929" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuZ50Sg"
+Gtk-Message: 11:00:36.220: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717473636752	Marionette	INFO	Marionette enabled
+1717473636831	Marionette	INFO	Listening on port 44943
+WebDriver BiDi listening on ws://127.0.0.1:45929
+Read port: 44943
+1717473637077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45929/devtools/browser/2bcdf421-7cd7-43a3-a012-2998988551d3
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717473658870	Marionette	INFO	Stopped listening on port 38085
+JavaScript warning: https://www.google.com/js/th/8RF9Niw07aUICNCAbe3-TNvweVXnMmbokKfNU9TTb8E.js line 2 > eval line 6417 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://www.google.com/js/th/8RF9Niw07aUICNCAbe3-TNvweVXnMmbokKfNU9TTb8E.js line 2 > eval line 7353 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 105: Error: Connection closed, pending request to server0.conn0.windowGlobal6442450945/domnode98, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:299:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:103:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:93:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:101:31
+
+1717473660680	Marionette	INFO	Stopped listening on port 44943
+1717473662032	Marionette	INFO	Stopped listening on port 43721
+1717473679045	geckodriver	INFO	Listening on 127.0.0.1:41259
+1717473679321	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "33977" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePFwCtC"
+Gtk-Message: 11:01:19.339: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717473679905	Marionette	INFO	Marionette enabled
+1717473679985	Marionette	INFO	Listening on port 39721
+WebDriver BiDi listening on ws://127.0.0.1:33977
+Read port: 39721
+1717473680233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33977/devtools/browser/c9e7b5f1-68a8-4827-9668-87afdec11c63
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+1717473712008	geckodriver	INFO	Listening on 127.0.0.1:45323
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717473712379	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717473712453	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "38921" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefV4ZAj"
+Gtk-Message: 11:01:52.470: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717473713018	Marionette	INFO	Marionette enabled
+1717473713111	Marionette	INFO	Listening on port 33925
+WebDriver BiDi listening on ws://127.0.0.1:38921
+Read port: 33925
+1717473713386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38921/devtools/browser/676d016f-5cf5-4b05-a09e-5e4be8333cd4
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1717473725733	Marionette	INFO	Stopped listening on port 33925
+JavaScript warning: https://www.google.com/js/th/8RF9Niw07aUICNCAbe3-TNvweVXnMmbokKfNU9TTb8E.js line 2 > eval line 3826 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+JavaScript warning: https://www.google.com/js/th/8RF9Niw07aUICNCAbe3-TNvweVXnMmbokKfNU9TTb8E.js line 2 > eval line 1317 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717473728347	Marionette	INFO	Stopped listening on port 39721
+1717473738796	geckodriver	INFO	Listening on 127.0.0.1:56011
+1717473739238	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "53495" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqPs7rP"
+Gtk-Message: 11:02:19.255: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717473739768	Marionette	INFO	Marionette enabled
+1717473739853	Marionette	INFO	Listening on port 40291
+WebDriver BiDi listening on ws://127.0.0.1:53495
+Read port: 40291
+1717473740096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53495/devtools/browser/592fd864-a126-4bd0-bd9f-9e05cfa121d5
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717473770350	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://www.google.com/js/th/8RF9Niw07aUICNCAbe3-TNvweVXnMmbokKfNU9TTb8E.js line 2 > eval line 2653 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 105: Error: Connection closed, pending request to server0.conn0.windowGlobal6442450945/domnode116, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:299:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:103:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:93:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:101:31
+
+1717473792810	Marionette	INFO	Stopped listening on port 40291
+1717473808077	geckodriver	INFO	Listening on 127.0.0.1:45571
+1717473808497	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "51511" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6tVeNp"
+Gtk-Message: 11:03:28.513: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717473809025	Marionette	INFO	Marionette enabled
+1717473809122	Marionette	INFO	Listening on port 42285
+WebDriver BiDi listening on ws://127.0.0.1:51511
+Read port: 42285
+1717473809370	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51511/devtools/browser/340d6b32-4ff8-4463-a5cb-53c5b66544e9
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+1717473814015	Marionette	INFO	Stopped listening on port 42285
+JavaScript warning: https://www.youtube.com/s/player/4b63a6a1/player_ias.vflset/en_US/base.js, line 1973: Script terminated by timeout at:
+g.DA/<@https://www.youtube.com/s/player/4b63a6a1/player_ias.vflset/en_US/base.js:1973:49
+
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+IKlv/me/<@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:11440
+IKlv/me/<@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:11185
+me@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:11444
+IKlv/ae/e/<@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:7594
+l@https://phenikaa-uni.edu.vn/_next/static/chunks/commons.5667339dae1fe755cc47.js:1:41738
+ls82/s/a._invoke@https://phenikaa-uni.edu.vn/_next/static/chunks/commons.5667339dae1fe755cc47.js:1:41527
+ls82/P/</<@https://phenikaa-uni.edu.vn/_next/static/chunks/commons.5667339dae1fe755cc47.js:1:42163
+r@https://phenikaa-uni.edu.vn/_next/static/chunks/commons.5667339dae1fe755cc47.js:1:52690
+u@https://phenikaa-uni.edu.vn/_next/static/chunks/commons.5667339dae1fe755cc47.js:1:52902
+yXPU/e.exports/</<@https://phenikaa-uni.edu.vn/_next/static/chunks/commons.5667339dae1fe755cc47.js:1:52961
+yXPU/e.exports/<@https://phenikaa-uni.edu.vn/_next/static/chunks/commons.5667339dae1fe755cc47.js:1:52841
+oe@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:7348
+subscription@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:6973
+value@https://phenikaa-uni.edu.vn/_next/static/chunks/commons.5667339dae1fe755cc47.js:1:37659
+value@https://phenikaa-uni.edu.vn/_next/static/chunks/commons.5667339dae1fe755cc47.js:1:34477
+elyg/t/<@https://phenikaa-uni.edu.vn/_next/static/chunks/commons.5667339dae1fe755cc47.js:1:31292
+l@https://phenikaa-uni.edu.vn/_next/static/chunks/commons.5667339dae1fe755cc47.js:1:41738
+ls82/s/a._invoke@https://phenikaa-uni.edu.vn/_next/static/chunks/commons.5667339dae1fe755cc47.js:1:41527
+ls82/P/</<@https://phenikaa-uni.edu.vn/_next/static/chunks/commons.5667339dae1fe755cc47.js:1:42163
+r@https://phenikaa-uni.edu.vn/_next/static/chunks/commons.5667339dae1fe755cc47.js:1:52690
+u@https://phenikaa-uni.edu.vn/_next/static/chunks/commons.5667339dae1fe755cc47.js:1:52902
+
+JavaScript warning: https://www.google.com/js/th/8RF9Niw07aUICNCAbe3-TNvweVXnMmbokKfNU9TTb8E.js line 2 > eval line 5032 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: !CanvasManagerChild::Get()
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+1717473822726	geckodriver	INFO	Listening on 127.0.0.1:35433
+1717473823172	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "40543" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJoW9SN"
+Gtk-Message: 11:03:43.188: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717473823698	Marionette	INFO	Marionette enabled
+1717473823788	Marionette	INFO	Listening on port 35381
+WebDriver BiDi listening on ws://127.0.0.1:40543
+Read port: 35381
+1717473824033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40543/devtools/browser/f2f7f125-bc6a-4f68-a1c7-13174ac9e409
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/s/player/4b63a6a1/www-embed-player.vflset/www-embed-player.js, line 906: Script terminated by timeout at:
+fl/<@https://www.youtube.com/s/player/4b63a6a1/www-embed-player.vflset/www-embed-player.js:906:47
+
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717473853706	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717473893096	Marionette	INFO	Stopped listening on port 35381
+1717473895598	geckodriver	INFO	Listening on 127.0.0.1:38927
+1717473896019	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "50825" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFBu1YE"
+Gtk-Message: 11:04:56.036: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717473896561	Marionette	INFO	Marionette enabled
+1717473896649	Marionette	INFO	Listening on port 37283
+WebDriver BiDi listening on ws://127.0.0.1:50825
+Read port: 37283
+1717473896917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50825/devtools/browser/e777aeda-1b5f-4a50-bf90-7f5c8128e12c
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+JavaScript warning: https://www.google.com/js/th/8RF9Niw07aUICNCAbe3-TNvweVXnMmbokKfNU9TTb8E.js line 2 > eval line 6499 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717473903624	Marionette	INFO	Stopped listening on port 37283
+1717473947145	geckodriver	INFO	Listening on 127.0.0.1:49865
+1717473947563	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "45249" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilediiGaK"
+Gtk-Message: 11:05:47.581: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717473948094	Marionette	INFO	Marionette enabled
+1717473948165	Marionette	INFO	Listening on port 32899
+WebDriver BiDi listening on ws://127.0.0.1:45249
+Read port: 32899
+1717473948411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45249/devtools/browser/8adf071b-9f48-462c-971e-4b4f0e51cdfc
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+1717473953015	Marionette	INFO	Stopped listening on port 32899
+JavaScript warning: https://www.youtube.com/s/player/74bb7b07/player_ias.vflset/en_US/base.js, line 1949: Script terminated by timeout at:
+g.DA/<@https://www.youtube.com/s/player/74bb7b07/player_ias.vflset/en_US/base.js:1949:49
+
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: Script terminated by timeout at:
+_0x45c1@https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78:1:263866
+@https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78:1:125590
+
+JavaScript warning: https://www.google.com/js/th/8RF9Niw07aUICNCAbe3-TNvweVXnMmbokKfNU9TTb8E.js line 2 > eval line 137 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717474058231	geckodriver	INFO	Listening on 127.0.0.1:34893
+1717474058651	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "58589" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileo9g3pr"
+Gtk-Message: 11:07:38.668: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717474059181	Marionette	INFO	Marionette enabled
+1717474059271	Marionette	INFO	Listening on port 42977
+WebDriver BiDi listening on ws://127.0.0.1:58589
+Read port: 42977
+1717474059549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58589/devtools/browser/82dfb401-a446-45df-ad8f-3b52b070c41c
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+1717474063802	Marionette	INFO	Stopped listening on port 42977
+JavaScript warning: https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js, line 205: Script terminated by timeout at:
+d@https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js:205:518
+
+JavaScript warning: https://www.youtube.com/s/player/74bb7b07/player_ias.vflset/en_US/base.js, line 1949: Script terminated by timeout at:
+g.DA/<@https://www.youtube.com/s/player/74bb7b07/player_ias.vflset/en_US/base.js:1949:49
+
+JavaScript warning: https://www.google.com/js/th/8RF9Niw07aUICNCAbe3-TNvweVXnMmbokKfNU9TTb8E.js line 2 > eval line 3756 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: !CanvasManagerChild::Get()
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+1717474072215	geckodriver	INFO	Listening on 127.0.0.1:48875
+1717474072614	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "39497" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXejJGe"
+Gtk-Message: 11:07:52.631: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717474073146	Marionette	INFO	Marionette enabled
+1717474073229	Marionette	INFO	Listening on port 36631
+WebDriver BiDi listening on ws://127.0.0.1:39497
+Read port: 36631
+1717474073474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39497/devtools/browser/4573b9ce-5cd4-4e88-bc4b-363f78df0b6b
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js, line 926: Script terminated by timeout at:
+U@https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js:926:226
+@https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js:1922:52
+gl/<@https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js:906:63
+
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717474103169	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717474110674	Marionette	INFO	Stopped listening on port 36631
+JavaScript warning: https://www.youtube.com/embed/9dkjeridO4A?list=UULFW8-_YTrFXm1Vz35WK2-bYg line 865 > injectedScript line 2 > eval line 439 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717474232748	geckodriver	INFO	Listening on 127.0.0.1:36351
+1717474233177	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "57179" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePO64W9"
+Gtk-Message: 11:10:33.195: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717474233729	Marionette	INFO	Marionette enabled
+1717474233819	Marionette	INFO	Listening on port 41183
+WebDriver BiDi listening on ws://127.0.0.1:57179
+Read port: 41183
+1717474234068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57179/devtools/browser/02785b97-da12-49ef-8a58-b5bcd808e44d
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717474263800	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717474278500	geckodriver	INFO	Listening on 127.0.0.1:49021
+1717474278957	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "58407" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileu93pcx"
+Gtk-Message: 11:11:18.975: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717474279494	Marionette	INFO	Marionette enabled
+1717474279564	Marionette	INFO	Listening on port 37705
+WebDriver BiDi listening on ws://127.0.0.1:58407
+Read port: 37705
+1717474279897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58407/devtools/browser/64adea7b-0918-44f1-ae26-0ac8ea9ad126
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717474309955	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717474315957	geckodriver	INFO	Listening on 127.0.0.1:50279
+1717474316234	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "49439" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileijpD18"
+Gtk-Message: 11:11:56.252: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717474316803	Marionette	INFO	Marionette enabled
+1717474316912	Marionette	INFO	Listening on port 39329
+WebDriver BiDi listening on ws://127.0.0.1:49439
+Read port: 39329
+1717474317158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49439/devtools/browser/fd333682-9f21-4485-969f-81660af07e85
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js, line 926: Script terminated by timeout at:
+U@https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js:926:226
+@https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js:1922:52
+gl/<@https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js:906:63
+
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717474346815	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+JavaScript warning: https://www.youtube.com/embed/9dkjeridO4A?list=UULFW8-_YTrFXm1Vz35WK2-bYg line 865 > injectedScript line 2 > eval line 7454 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717474353397	Marionette	INFO	Stopped listening on port 39329
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717474354392	Marionette	INFO	Stopped listening on port 37705
+JavaScript warning: https://www.google.com/js/th/8RF9Niw07aUICNCAbe3-TNvweVXnMmbokKfNU9TTb8E.js line 2 > eval line 7436 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717474355928	Marionette	INFO	Stopped listening on port 41183
+JavaScript warning: https://www.google.com/js/th/8RF9Niw07aUICNCAbe3-TNvweVXnMmbokKfNU9TTb8E.js line 2 > eval line 4412 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717474380577	geckodriver	INFO	Listening on 127.0.0.1:54945
+1717474380916	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "45339" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaPi3IU"
+Gtk-Message: 11:13:00.933: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717474381463	Marionette	INFO	Marionette enabled
+1717474381540	Marionette	INFO	Listening on port 36209
+WebDriver BiDi listening on ws://127.0.0.1:45339
+Read port: 36209
+1717474381788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45339/devtools/browser/770f82f4-7fab-4bee-8b1c-5073f336d927
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+JavaScript warning: https://www.google.com/js/th/8RF9Niw07aUICNCAbe3-TNvweVXnMmbokKfNU9TTb8E.js line 2 > eval line 2824 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717474405484	Marionette	INFO	Stopped listening on port 36209
+1717474428689	geckodriver	INFO	Listening on 127.0.0.1:48245
+1717474429110	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "48417" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4kLKGn"
+Gtk-Message: 11:13:49.127: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717474429638	Marionette	INFO	Marionette enabled
+1717474429734	Marionette	INFO	Listening on port 45757
+WebDriver BiDi listening on ws://127.0.0.1:48417
+Read port: 45757
+1717474429982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:48417/devtools/browser/0a511dfc-816f-4627-abce-96cb225fd00e
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717474459647	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717474524091	geckodriver	INFO	Listening on 127.0.0.1:58393
+1717474524494	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "33175" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebnjZ2E"
+Gtk-Message: 11:15:24.512: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717474525039	Marionette	INFO	Marionette enabled
+1717474525121	Marionette	INFO	Listening on port 41657
+WebDriver BiDi listening on ws://127.0.0.1:33175
+Read port: 41657
+1717474525365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33175/devtools/browser/d6bfdbae-0496-403b-8ed2-6a0dfa5682c8
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717474557103	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717474799816	geckodriver	INFO	Listening on 127.0.0.1:47223
+1717474800260	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "53073" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyGTiZf"
+Gtk-Message: 11:20:00.276: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717474800860	Marionette	INFO	Marionette enabled
+1717474800962	Marionette	INFO	Listening on port 37843
+WebDriver BiDi listening on ws://127.0.0.1:53073
+Read port: 37843
+1717474801232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53073/devtools/browser/4727a1a7-2a7e-4230-94c5-f4c0a3b9000d
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://vrtour.phenikaa-uni.edu.vn/lib/tdvplayer.js?v=1696516913413, line 533: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717474831339	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-R2PQVEVBPJ&l=gaDataLayer, line 571: Script terminated by timeout at:
+get@https://www.googletagmanager.com/gtag/js?id=G-R2PQVEVBPJ&l=gaDataLayer:571:115
+stop@https://www.googletagmanager.com/gtag/js?id=G-R2PQVEVBPJ&l=gaDataLayer:571:87
+ca.Nk/c/<@https://www.googletagmanager.com/gtag/js?id=G-R2PQVEVBPJ&l=gaDataLayer:571:412
+
+JavaScript error: resource://gre/actors/AudioPlaybackParent.sys.mjs, line 21: TypeError: browser is null
+1717474904789	Marionette	INFO	Stopped listening on port 37843
+1717474907973	Marionette	INFO	Stopped listening on port 41657
+1717474910851	Marionette	INFO	Stopped listening on port 45757
+1717475199093	geckodriver	INFO	Listening on 127.0.0.1:60623
+1717475199532	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "33857" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTw1Fdm"
+Gtk-Message: 11:26:39.549: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717475200068	Marionette	INFO	Marionette enabled
+1717475200150	Marionette	INFO	Listening on port 33045
+WebDriver BiDi listening on ws://127.0.0.1:33857
+Read port: 33045
+1717475200396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33857/devtools/browser/7854112b-8221-4270-aa72-e2364b10ce84
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717475232945	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717475238783	geckodriver	INFO	Listening on 127.0.0.1:37125
+1717475239220	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "41359" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoxK8wv"
+Gtk-Message: 11:27:19.237: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717475239780	Marionette	INFO	Marionette enabled
+1717475239895	Marionette	INFO	Listening on port 34947
+WebDriver BiDi listening on ws://127.0.0.1:41359
+Read port: 34947
+1717475240152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:41359/devtools/browser/649fee61-e84e-4f33-8c8e-44883047b602
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717475269844	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717475279531	geckodriver	INFO	Listening on 127.0.0.1:35383
+1717475279955	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "55911" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUvDiIX"
+Gtk-Message: 11:27:59.972: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717475280524	Marionette	INFO	Marionette enabled
+1717475280600	Marionette	INFO	Listening on port 43283
+WebDriver BiDi listening on ws://127.0.0.1:55911
+Read port: 43283
+1717475280865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55911/devtools/browser/2b9f7fc7-1805-45de-a1f4-6590fd21f8dd
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717475311743	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 105: Error: Connection closed, pending request to server0.conn0.windowGlobal6442450945/domnode217, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:299:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:103:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:93:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:101:31
+
+1717475402607	Marionette	INFO	Stopped listening on port 34947
+JavaScript warning: https://www.google.com/js/th/8RF9Niw07aUICNCAbe3-TNvweVXnMmbokKfNU9TTb8E.js line 2 > eval line 7629 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717475403942	Marionette	INFO	Stopped listening on port 43283
+JavaScript warning: https://www.google.com/js/th/8RF9Niw07aUICNCAbe3-TNvweVXnMmbokKfNU9TTb8E.js line 2 > eval line 2443 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717475405227	Marionette	INFO	Stopped listening on port 33045
+JavaScript warning: https://www.google.com/js/th/8RF9Niw07aUICNCAbe3-TNvweVXnMmbokKfNU9TTb8E.js line 2 > eval line 7101 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717475681540	geckodriver	INFO	Listening on 127.0.0.1:48567
+1717475681950	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "45933" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile40cM1V"
+Gtk-Message: 11:34:41.967: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717475682499	Marionette	INFO	Marionette enabled
+1717475682613	Marionette	INFO	Listening on port 39785
+WebDriver BiDi listening on ws://127.0.0.1:45933
+Read port: 39785
+1717475682869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45933/devtools/browser/e5b97969-4e2a-4203-8c82-1e38f6b5df78
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717475697373	Marionette	INFO	Stopped listening on port 39785
+JavaScript warning: https://www.google.com/js/th/8RF9Niw07aUICNCAbe3-TNvweVXnMmbokKfNU9TTb8E.js line 2 > eval line 1873 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717475730327	geckodriver	INFO	Listening on 127.0.0.1:46705
+1717475730770	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "54377" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezZtxEl"
+Gtk-Message: 11:35:30.787: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717475731326	Marionette	INFO	Marionette enabled
+1717475731410	Marionette	INFO	Listening on port 34709
+WebDriver BiDi listening on ws://127.0.0.1:54377
+Read port: 34709
+1717475731761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54377/devtools/browser/fe9e6112-f537-4321-8cc2-13bf5f3a3baa
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717475761822	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717475950118	Marionette	INFO	Stopped listening on port 34709
+JavaScript warning: https://www.google.com/js/th/8RF9Niw07aUICNCAbe3-TNvweVXnMmbokKfNU9TTb8E.js line 2 > eval line 5322 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717476014364	geckodriver	INFO	Listening on 127.0.0.1:37243
+1717476014798	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "34713" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexRPRR1"
+Gtk-Message: 11:40:14.816: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717476015342	Marionette	INFO	Marionette enabled
+1717476015433	Marionette	INFO	Listening on port 46329
+WebDriver BiDi listening on ws://127.0.0.1:34713
+Read port: 46329
+1717476015702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34713/devtools/browser/e16f1c4f-7878-43a1-a466-9192c9995a70
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717476029753	Marionette	INFO	Stopped listening on port 46329
+JavaScript warning: https://www.google.com/js/th/8RF9Niw07aUICNCAbe3-TNvweVXnMmbokKfNU9TTb8E.js line 2 > eval line 1325 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717476050114	geckodriver	INFO	Listening on 127.0.0.1:57581
+1717476050538	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "60473" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4WbRgu"
+Gtk-Message: 11:40:50.555: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717476051088	Marionette	INFO	Marionette enabled
+1717476051192	Marionette	INFO	Listening on port 45971
+WebDriver BiDi listening on ws://127.0.0.1:60473
+Read port: 45971
+1717476051469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60473/devtools/browser/5a3ab77b-3722-4865-a976-612a84e89349
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717476082289	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717481956476	Marionette	INFO	Stopped listening on port 45971
+JavaScript warning: https://www.google.com/js/th/8RF9Niw07aUICNCAbe3-TNvweVXnMmbokKfNU9TTb8E.js line 2 > eval line 5353 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717481975138	geckodriver	INFO	Listening on 127.0.0.1:45371
+1717481975562	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "51203" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5nnECP"
+Gtk-Message: 13:19:35.578: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717481976104	Marionette	INFO	Marionette enabled
+1717481976204	Marionette	INFO	Listening on port 35757
+WebDriver BiDi listening on ws://127.0.0.1:51203
+Read port: 35757
+1717481976468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51203/devtools/browser/19a46590-1581-4c90-988d-5c5d6db8edd7
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717482006130	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717482026337	geckodriver	INFO	Listening on 127.0.0.1:35163
+1717482026750	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "36757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVqJ679"
+Gtk-Message: 13:20:26.768: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717482027281	Marionette	INFO	Marionette enabled
+1717482027367	Marionette	INFO	Listening on port 41771
+WebDriver BiDi listening on ws://127.0.0.1:36757
+Read port: 41771
+1717482027617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:36757/devtools/browser/82c48e95-ddb8-4154-b558-234d79c905db
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717482058591	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://fl.phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://fl.phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717483593602	Marionette	INFO	Stopped listening on port 35757
+JavaScript warning: https://fl.phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://fl.phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717483595377	Marionette	INFO	Stopped listening on port 41771
+1717484460554	geckodriver	INFO	Listening on 127.0.0.1:34693
+1717484460988	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "46945" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileByUbgR"
+Gtk-Message: 14:01:01.005: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717484461553	Marionette	INFO	Marionette enabled
+1717484461650	Marionette	INFO	Listening on port 33363
+WebDriver BiDi listening on ws://127.0.0.1:46945
+Read port: 33363
+1717484461909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46945/devtools/browser/a8479c4f-67d2-49f0-bc86-438139697f2f
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js, line 926: Script terminated by timeout at:
+U@https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js:926:226
+@https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js:1922:52
+gl/<@https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js:906:63
+
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717484491596	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717484495523	Marionette	INFO	Stopped listening on port 33363
+1717484527496	geckodriver	INFO	Listening on 127.0.0.1:59467
+1717484527912	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "38069" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4beXLw"
+Gtk-Message: 14:02:07.929: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717484528458	Marionette	INFO	Marionette enabled
+1717484528553	Marionette	INFO	Listening on port 38607
+WebDriver BiDi listening on ws://127.0.0.1:38069
+Read port: 38607
+1717484528809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38069/devtools/browser/605c6054-b1da-4a0d-9887-2ee29c2005ef
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 5552 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717484538106	Marionette	INFO	Stopped listening on port 38607
+1717484556260	geckodriver	INFO	Listening on 127.0.0.1:51699
+1717484556704	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "53051" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejMXu9b"
+Gtk-Message: 14:02:36.721: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717484557246	Marionette	INFO	Marionette enabled
+1717484557338	Marionette	INFO	Listening on port 42267
+WebDriver BiDi listening on ws://127.0.0.1:53051
+Read port: 42267
+1717484557593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53051/devtools/browser/4d9e0389-910b-4c07-a372-91f00036b402
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-RHMZR4EEE8&l=dataLayer&cx=c, line 212: Script terminated by timeout at:
+Bb@https://www.googletagmanager.com/gtag/js?id=G-RHMZR4EEE8&l=dataLayer&cx=c:212:128
+rm@https://www.googletagmanager.com/gtag/js?id=G-RHMZR4EEE8&l=dataLayer&cx=c:374:363
+an@https://www.googletagmanager.com/gtag/js?id=G-RHMZR4EEE8&l=dataLayer&cx=c:382:742
+YG/<@https://www.googletagmanager.com/gtag/js?id=G-RHMZR4EEE8&l=dataLayer&cx=c:677:178
+ca.Nk/<@https://www.googletagmanager.com/gtag/js?id=G-RHMZR4EEE8&l=dataLayer&cx=c:624:126
+ca.Nk/c/<@https://www.googletagmanager.com/gtag/js?id=G-RHMZR4EEE8&l=dataLayer&cx=c:623:420
+
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 3597 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717484568372	Marionette	INFO	Stopped listening on port 42267
+1717484681255	geckodriver	INFO	Listening on 127.0.0.1:49927
+1717484681694	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "59135" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledSabVo"
+Gtk-Message: 14:04:41.711: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717484682238	Marionette	INFO	Marionette enabled
+1717484682338	Marionette	INFO	Listening on port 38035
+WebDriver BiDi listening on ws://127.0.0.1:59135
+Read port: 38035
+1717484682598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59135/devtools/browser/e7e83df0-2c8f-40a3-973d-41e89bd61e85
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+1717484708241	geckodriver	INFO	Listening on 127.0.0.1:46265
+1717484708692	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "55979" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoiQpnj"
+Gtk-Message: 14:05:08.711: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717484709255	Marionette	INFO	Marionette enabled
+1717484709359	Marionette	INFO	Listening on port 45941
+WebDriver BiDi listening on ws://127.0.0.1:55979
+Read port: 45941
+1717484709610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55979/devtools/browser/4902a54b-8131-40cb-a5ca-e24440b5a31d
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717484712828	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-RHMZR4EEE8&l=dataLayer&cx=c, line 210: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-RHMZR4EEE8&l=dataLayer&cx=c:210:911
+rm@https://www.googletagmanager.com/gtag/js?id=G-RHMZR4EEE8&l=dataLayer&cx=c:374:356
+an@https://www.googletagmanager.com/gtag/js?id=G-RHMZR4EEE8&l=dataLayer&cx=c:382:742
+YG/<@https://www.googletagmanager.com/gtag/js?id=G-RHMZR4EEE8&l=dataLayer&cx=c:677:178
+ca.Nk/<@https://www.googletagmanager.com/gtag/js?id=G-RHMZR4EEE8&l=dataLayer&cx=c:624:126
+ca.Nk/c/<@https://www.googletagmanager.com/gtag/js?id=G-RHMZR4EEE8&l=dataLayer&cx=c:623:420
+
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 7490 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717484739977	Marionette	INFO	Stopped listening on port 38035
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717484741651	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717484742353	Marionette	INFO	Stopped listening on port 45941
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 7742 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.warn: services.settings: main/translations-models sync interrupted by shutdown
+console.warn: services.settings: main/devtools-compatibility-browsers sync interrupted by shutdown
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/rally-studies-v1 getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1717487248738	geckodriver	INFO	Listening on 127.0.0.1:44553
+1717487249155	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "46211" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJuxgbu"
+Gtk-Message: 14:47:29.171: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717487249696	Marionette	INFO	Marionette enabled
+1717487249790	Marionette	INFO	Listening on port 44671
+WebDriver BiDi listening on ws://127.0.0.1:46211
+Read port: 44671
+1717487250032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46211/devtools/browser/9fbad724-045c-4ebe-923f-f06b4719fd71
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717487281053	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717487319689	geckodriver	INFO	Listening on 127.0.0.1:55371
+1717487320132	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "39591" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8Sz9TY"
+Gtk-Message: 14:48:40.149: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717487320663	Marionette	INFO	Marionette enabled
+1717487320743	Marionette	INFO	Listening on port 35223
+WebDriver BiDi listening on ws://127.0.0.1:39591
+Read port: 35223
+1717487320992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39591/devtools/browser/5cc13242-8d0f-49ad-a588-359ad2389215
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717487351645	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717487357505	geckodriver	INFO	Listening on 127.0.0.1:55005
+1717487357912	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "44957" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyb4kn6"
+Gtk-Message: 14:49:17.930: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717487358449	Marionette	INFO	Marionette enabled
+1717487358540	Marionette	INFO	Listening on port 41109
+WebDriver BiDi listening on ws://127.0.0.1:44957
+Read port: 41109
+1717487358788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44957/devtools/browser/57504ac8-13dd-4dc9-9894-94496c700f51
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717487385079	Marionette	INFO	Stopped listening on port 41109
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 3869 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717487426551	geckodriver	INFO	Listening on 127.0.0.1:57103
+1717487426974	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "42217" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejOWtcD"
+Gtk-Message: 14:50:26.992: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717487427499	Marionette	INFO	Marionette enabled
+1717487427616	Marionette	INFO	Listening on port 45017
+WebDriver BiDi listening on ws://127.0.0.1:42217
+Read port: 45017
+1717487427864	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42217/devtools/browser/605c2e7a-1b99-472b-ae97-a389906579f9
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717487459716	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717487477424	geckodriver	INFO	Listening on 127.0.0.1:59719
+1717487477841	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "58739" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKJvmTv"
+Gtk-Message: 14:51:17.858: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717487478371	Marionette	INFO	Marionette enabled
+1717487478446	Marionette	INFO	Listening on port 37199
+WebDriver BiDi listening on ws://127.0.0.1:58739
+Read port: 37199
+1717487478693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58739/devtools/browser/763b3737-9098-4c43-8761-da6cef4dd4dd
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717487509350	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717488084086	Marionette	INFO	Stopped listening on port 44671
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 235 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717488085413	Marionette	INFO	Stopped listening on port 37199
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 6177 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717488086814	Marionette	INFO	Stopped listening on port 45017
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 7082 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717488093014	Marionette	INFO	Stopped listening on port 35223
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 2940 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717489724756	geckodriver	INFO	Listening on 127.0.0.1:38423
+1717489725193	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "46331" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYAj9dh"
+Gtk-Message: 15:28:45.209: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717489725723	Marionette	INFO	Marionette enabled
+1717489725804	Marionette	INFO	Listening on port 46735
+WebDriver BiDi listening on ws://127.0.0.1:46331
+Read port: 46735
+1717489726050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46331/devtools/browser/c56d9b04-b663-4cc9-9db2-ccd12db2f44c
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717489755729	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717489755982	geckodriver	INFO	Listening on 127.0.0.1:32941
+1717489756420	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "33353" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenDLVW1"
+Gtk-Message: 15:29:16.437: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717489756979	Marionette	INFO	Marionette enabled
+1717489757077	Marionette	INFO	Listening on port 42159
+WebDriver BiDi listening on ws://127.0.0.1:33353
+Read port: 42159
+1717489757332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33353/devtools/browser/adcfb371-300c-4ad1-a7fb-067fcef2ea6b
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717489775778	Marionette	INFO	Stopped listening on port 46735
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 2089 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717489777008	Marionette	INFO	Stopped listening on port 42159
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 3155 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717490101572	geckodriver	INFO	Listening on 127.0.0.1:51649
+1717490102008	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "42639" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUl1oFV"
+Gtk-Message: 15:35:02.024: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717490102535	Marionette	INFO	Marionette enabled
+1717490102654	Marionette	INFO	Listening on port 42001
+WebDriver BiDi listening on ws://127.0.0.1:42639
+Read port: 42001
+1717490102910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42639/devtools/browser/f1981ad9-b042-42fd-b34f-7dad0e5a1d0d
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717490135472	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717490142406	geckodriver	INFO	Listening on 127.0.0.1:48753
+1717490142852	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "55367" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGifkYq"
+Gtk-Message: 15:35:42.868: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717490143378	Marionette	INFO	Marionette enabled
+1717490143457	Marionette	INFO	Listening on port 43585
+WebDriver BiDi listening on ws://127.0.0.1:55367
+Read port: 43585
+1717490143716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55367/devtools/browser/cec77776-fd4e-4794-9079-24dd7f50217a
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 394 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717490173458	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717490187273	geckodriver	INFO	Listening on 127.0.0.1:60689
+1717490187730	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "59159" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSuELhj"
+Gtk-Message: 15:36:27.747: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717490188260	Marionette	INFO	Marionette enabled
+1717490188338	Marionette	INFO	Listening on port 35129
+WebDriver BiDi listening on ws://127.0.0.1:59159
+Read port: 35129
+1717490188585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59159/devtools/browser/121e49f3-1f5c-4c6f-bda1-12add7d9751b
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717490219844	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717490242802	geckodriver	INFO	Listening on 127.0.0.1:48895
+1717490243230	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "56499" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileX1wxSy"
+Gtk-Message: 15:37:23.249: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717490243768	Marionette	INFO	Marionette enabled
+1717490243875	Marionette	INFO	Listening on port 36361
+WebDriver BiDi listening on ws://127.0.0.1:56499
+Read port: 36361
+1717490244121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56499/devtools/browser/e60422ce-0450-4b05-9c5d-1dba0c36ea15
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+1717490258807	geckodriver	INFO	Listening on 127.0.0.1:42745
+1717490259256	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "39035" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile46NHdW"
+Gtk-Message: 15:37:39.272: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717490259785	Marionette	INFO	Marionette enabled
+1717490259886	Marionette	INFO	Listening on port 42029
+WebDriver BiDi listening on ws://127.0.0.1:39035
+Read port: 42029
+1717490260128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39035/devtools/browser/7ba5ebe5-4b23-4a5f-acfb-efabfcc99d9a
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717490276716	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717490293347	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717490306424	geckodriver	INFO	Listening on 127.0.0.1:41147
+1717490306835	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "40741" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileztHAFF"
+Gtk-Message: 15:38:26.861: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717490307381	Marionette	INFO	Marionette enabled
+1717490307467	Marionette	INFO	Listening on port 44703
+WebDriver BiDi listening on ws://127.0.0.1:40741
+Read port: 44703
+1717490307723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40741/devtools/browser/2a01775d-34c8-44d1-b828-adc6884cfcd0
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js, line 906: Script terminated by timeout at:
+gl/<@https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js:906:47
+
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717490337988	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+1717490396619	geckodriver	INFO	Listening on 127.0.0.1:52679
+1717490397056	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "53727" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMiT7fq"
+Gtk-Message: 15:39:57.074: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717490397601	Marionette	INFO	Marionette enabled
+1717490397688	Marionette	INFO	Listening on port 43229
+WebDriver BiDi listening on ws://127.0.0.1:53727
+Read port: 43229
+1717490397954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53727/devtools/browser/33927609-88f8-4583-bbd2-155c6daf8e8b
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-RHMZR4EEE8&l=dataLayer&cx=c, line 387: Script terminated by timeout at:
+hn.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-RHMZR4EEE8&l=dataLayer&cx=c:387:464
+YG/<@https://www.googletagmanager.com/gtag/js?id=G-RHMZR4EEE8&l=dataLayer&cx=c:677:142
+ca.Nk/<@https://www.googletagmanager.com/gtag/js?id=G-RHMZR4EEE8&l=dataLayer&cx=c:624:126
+ca.Nk/c/<@https://www.googletagmanager.com/gtag/js?id=G-RHMZR4EEE8&l=dataLayer&cx=c:623:420
+
+1717490428841	Marionette	INFO	Stopped listening on port 43585
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 6060 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717490430012	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717490430691	Marionette	INFO	Stopped listening on port 35129
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 3011 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717490431874	Marionette	INFO	Stopped listening on port 36361
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 6206 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717490433211	Marionette	INFO	Stopped listening on port 42029
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 3689 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717490434429	Marionette	INFO	Stopped listening on port 44703
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717490435800	Marionette	INFO	Stopped listening on port 43229
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717490437087	Marionette	INFO	Stopped listening on port 42001
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 3101 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717490468478	geckodriver	INFO	Listening on 127.0.0.1:35819
+1717490468906	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "55023" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9em1qG"
+Gtk-Message: 15:41:08.922: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717490469439	Marionette	INFO	Marionette enabled
+1717490469539	Marionette	INFO	Listening on port 37023
+WebDriver BiDi listening on ws://127.0.0.1:55023
+Read port: 37023
+1717490469784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55023/devtools/browser/87354a6f-cf8d-4479-bb09-c94074333ec7
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717490499448	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717490545530	geckodriver	INFO	Listening on 127.0.0.1:51435
+1717490545966	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "52583" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVhCcxq"
+Gtk-Message: 15:42:25.984: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717490546509	Marionette	INFO	Marionette enabled
+1717490546576	Marionette	INFO	Listening on port 40819
+WebDriver BiDi listening on ws://127.0.0.1:52583
+Read port: 40819
+1717490546826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52583/devtools/browser/25be27b0-e976-4136-b98b-66e287712610
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+1717490572472	geckodriver	INFO	Listening on 127.0.0.1:43501
+1717490572895	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "60869" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevoApV8"
+Gtk-Message: 15:42:52.912: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717490573421	Marionette	INFO	Marionette enabled
+1717490573505	Marionette	INFO	Listening on port 45313
+WebDriver BiDi listening on ws://127.0.0.1:60869
+Read port: 45313
+1717490573751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60869/devtools/browser/d76f0fab-b798-4c21-9128-68e8e25ffeca
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717490576875	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717490582914	Marionette	INFO	Stopped listening on port 40819
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 7419 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 2758 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717490584519	Marionette	INFO	Stopped listening on port 45313
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717490585757	Marionette	INFO	Stopped listening on port 37023
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 7352 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717490588140	geckodriver	INFO	Listening on 127.0.0.1:58791
+1717490588583	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "51959" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCh4NZm"
+Gtk-Message: 15:43:08.600: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717490589112	Marionette	INFO	Marionette enabled
+1717490589194	Marionette	INFO	Listening on port 42443
+WebDriver BiDi listening on ws://127.0.0.1:51959
+Read port: 42443
+1717490589445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51959/devtools/browser/143a833d-5d48-4203-a866-3daea44d2360
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+1717490612694	geckodriver	INFO	Listening on 127.0.0.1:44319
+1717490613112	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "43531" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemg2miH"
+Gtk-Message: 15:43:33.128: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717490613637	Marionette	INFO	Marionette enabled
+1717490613716	Marionette	INFO	Listening on port 37377
+WebDriver BiDi listening on ws://127.0.0.1:43531
+Read port: 37377
+1717490613964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43531/devtools/browser/9b83015a-62d3-450d-a68e-68635e55fdc5
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717490621852	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717490624861	Marionette	INFO	Stopped listening on port 42443
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 5128 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717490626592	Marionette	INFO	Stopped listening on port 37377
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 7391 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717491172205	geckodriver	INFO	Listening on 127.0.0.1:55529
+1717491172655	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "59133" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegEHEcD"
+Gtk-Message: 15:52:52.671: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717491173183	Marionette	INFO	Marionette enabled
+1717491173291	Marionette	INFO	Listening on port 37801
+WebDriver BiDi listening on ws://127.0.0.1:59133
+Read port: 37801
+1717491173544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59133/devtools/browser/a289e705-00b8-451a-a337-770360aac7c3
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+1717491188677	geckodriver	INFO	Listening on 127.0.0.1:56919
+1717491189123	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "54619" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHLNx2D"
+Gtk-Message: 15:53:09.140: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717491189657	Marionette	INFO	Marionette enabled
+1717491189760	Marionette	INFO	Listening on port 42831
+WebDriver BiDi listening on ws://127.0.0.1:54619
+Read port: 42831
+1717491190006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54619/devtools/browser/c68ad53a-ebe7-4227-a464-14f878bbee11
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717491205369	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717491219809	Marionette	INFO	Stopped listening on port 42831
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 1427 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717491220068	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2152071198, errorCode: 2, reason: error
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717491220940	Marionette	INFO	Stopped listening on port 37801
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 7732 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717491251312	geckodriver	INFO	Listening on 127.0.0.1:57735
+1717491251739	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "49875" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeQARag"
+Gtk-Message: 15:54:11.755: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717491252253	Marionette	INFO	Marionette enabled
+1717491252344	Marionette	INFO	Listening on port 36947
+WebDriver BiDi listening on ws://127.0.0.1:49875
+Read port: 36947
+1717491252592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49875/devtools/browser/608a48dd-f272-4bc0-8e62-78716acc6e8b
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-RHMZR4EEE8&l=dataLayer&cx=c, line 212: Script terminated by timeout at:
+Bb@https://www.googletagmanager.com/gtag/js?id=G-RHMZR4EEE8&l=dataLayer&cx=c:212:128
+rm@https://www.googletagmanager.com/gtag/js?id=G-RHMZR4EEE8&l=dataLayer&cx=c:374:363
+an@https://www.googletagmanager.com/gtag/js?id=G-RHMZR4EEE8&l=dataLayer&cx=c:382:742
+YG/<@https://www.googletagmanager.com/gtag/js?id=G-RHMZR4EEE8&l=dataLayer&cx=c:677:178
+ca.Nk/<@https://www.googletagmanager.com/gtag/js?id=G-RHMZR4EEE8&l=dataLayer&cx=c:624:126
+ca.Nk/c/<@https://www.googletagmanager.com/gtag/js?id=G-RHMZR4EEE8&l=dataLayer&cx=c:623:420
+
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 2240 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717491268592	Marionette	INFO	Stopped listening on port 36947
+1717491285058	geckodriver	INFO	Listening on 127.0.0.1:45111
+1717491285478	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "49057" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiESEW9"
+Gtk-Message: 15:54:45.496: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717491286033	Marionette	INFO	Marionette enabled
+1717491286134	Marionette	INFO	Listening on port 41407
+WebDriver BiDi listening on ws://127.0.0.1:49057
+Read port: 41407
+1717491286381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49057/devtools/browser/e1018897-02c8-42ce-98d7-1759fc28439b
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 1155 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717491303003	Marionette	INFO	Stopped listening on port 41407
+1717491314147	geckodriver	INFO	Listening on 127.0.0.1:54169
+1717491314573	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "37649" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOG7Sbu"
+Gtk-Message: 15:55:14.590: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717491315108	Marionette	INFO	Marionette enabled
+1717491315206	Marionette	INFO	Listening on port 42237
+WebDriver BiDi listening on ws://127.0.0.1:37649
+Read port: 42237
+1717491315459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37649/devtools/browser/f3867be1-6a9e-428b-9996-f75cf36e4155
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 3191 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717491323530	Marionette	INFO	Stopped listening on port 42237
+1717492109924	geckodriver	INFO	Listening on 127.0.0.1:52961
+1717492110349	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "41675" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenVPfgR"
+Gtk-Message: 16:08:30.366: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717492110870	Marionette	INFO	Marionette enabled
+1717492110954	Marionette	INFO	Listening on port 34101
+WebDriver BiDi listening on ws://127.0.0.1:41675
+Read port: 34101
+1717492111217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:41675/devtools/browser/c3e27557-5fd2-48e7-bfe8-862021cffe05
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717492141081	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 6501 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717492144979	Marionette	INFO	Stopped listening on port 34101
+1717492245268	geckodriver	INFO	Listening on 127.0.0.1:45877
+1717492245679	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "49043" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecCdKd6"
+Gtk-Message: 16:10:45.696: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717492246216	Marionette	INFO	Marionette enabled
+1717492246320	Marionette	INFO	Listening on port 40595
+WebDriver BiDi listening on ws://127.0.0.1:49043
+Read port: 40595
+1717492246566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49043/devtools/browser/4f7b13d8-0ef2-4ec0-a487-079db3dd8a1d
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 6693 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717492253970	Marionette	INFO	Stopped listening on port 40595
+1717492427603	geckodriver	INFO	Listening on 127.0.0.1:60279
+1717492428054	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "33249" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGhylqp"
+Gtk-Message: 16:13:48.071: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717492428584	Marionette	INFO	Marionette enabled
+1717492428662	Marionette	INFO	Listening on port 35097
+WebDriver BiDi listening on ws://127.0.0.1:33249
+Read port: 35097
+1717492428930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33249/devtools/browser/15149387-45c7-4b5e-b53e-1162cbc05fdb
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717492442238	Marionette	INFO	Stopped listening on port 35097
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 47 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717492449017	geckodriver	INFO	Listening on 127.0.0.1:50675
+1717492449429	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "49995" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileba3L0x"
+Gtk-Message: 16:14:09.447: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717492449962	Marionette	INFO	Marionette enabled
+1717492450036	Marionette	INFO	Listening on port 42073
+WebDriver BiDi listening on ws://127.0.0.1:49995
+Read port: 42073
+1717492450291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49995/devtools/browser/980b56cf-cac5-48fd-b548-49128a04b73f
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717492480459	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717492487964	geckodriver	INFO	Listening on 127.0.0.1:58177
+1717492488375	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "49447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8jt7PY"
+Gtk-Message: 16:14:48.393: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717492488943	Marionette	INFO	Marionette enabled
+1717492489045	Marionette	INFO	Listening on port 38789
+WebDriver BiDi listening on ws://127.0.0.1:49447
+Read port: 38789
+1717492489308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49447/devtools/browser/68653f79-3836-4edb-859e-620b67cc125e
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js, line 906: Script terminated by timeout at:
+gl/<@https://www.youtube.com/s/player/74bb7b07/www-embed-player.vflset/www-embed-player.js:906:47
+
+JavaScript warning: https://fl.phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://fl.phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717492512369	Marionette	INFO	Stopped listening on port 38789
+1717492965546	geckodriver	INFO	Listening on 127.0.0.1:58477
+1717492965975	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "39621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilek2yGUl"
+Gtk-Message: 16:22:45.993: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717492966506	Marionette	INFO	Marionette enabled
+1717492966616	Marionette	INFO	Listening on port 36099
+WebDriver BiDi listening on ws://127.0.0.1:39621
+Read port: 36099
+1717492966888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39621/devtools/browser/05d0cbc6-ca24-4b10-9fbd-6c66a06b8342
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717492997160	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717493017134	geckodriver	INFO	Listening on 127.0.0.1:52771
+1717493017578	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "40477" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKxDdXP"
+Gtk-Message: 16:23:37.595: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717493018124	Marionette	INFO	Marionette enabled
+1717493018224	Marionette	INFO	Listening on port 42787
+WebDriver BiDi listening on ws://127.0.0.1:40477
+Read port: 42787
+1717493018487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40477/devtools/browser/86d34733-cd15-4deb-8bc2-d4b13139e741
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717493048757	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717493051056	geckodriver	INFO	Listening on 127.0.0.1:50241
+1717493051496	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "51743" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileumhikI"
+Gtk-Message: 16:24:11.513: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717493052039	Marionette	INFO	Marionette enabled
+1717493052133	Marionette	INFO	Listening on port 45853
+WebDriver BiDi listening on ws://127.0.0.1:51743
+Read port: 45853
+1717493052388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51743/devtools/browser/718a4019-4535-4b67-8d8e-5f75557bb3e8
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+1717493074452	geckodriver	INFO	Listening on 127.0.0.1:54537
+1717493074882	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "37871" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSnRVHl"
+Gtk-Message: 16:24:34.900: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1717493075453	Marionette	INFO	Marionette enabled
+1717493075532	Marionette	INFO	Listening on port 45037
+WebDriver BiDi listening on ws://127.0.0.1:37871
+Read port: 45037
+1717493075792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37871/devtools/browser/effdd507-b2d7-48bc-b0ee-da85d2d2a7ce
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.autoads.asia/maxlead/1.6.x/scripts/autoads-maxlead-widget.js?business_id=bdaa0f2fde0a41428d8bab1fbacd6e78, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1717493085389	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://fl.phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://fl.phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717493089057	Marionette	INFO	Stopped listening on port 36099
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717493091255	Marionette	INFO	Stopped listening on port 42787
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 267 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717493092626	Marionette	INFO	Stopped listening on port 45853
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 5495 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 4522 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717493094818	Marionette	INFO	Stopped listening on port 45037
+JavaScript warning: https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js, line 1: Script terminated by timeout at:
+c@https://phenikaa-uni.edu.vn/_next/static/chunks/main-a0edb0a38ecbcab3fb96.js:1:13114
+
+1717493095969	Marionette	INFO	Stopped listening on port 42073
+JavaScript warning: https://www.google.com/js/th/eibAoDspQrxJEgfHXHg_r2ZFWrvhsrgEHNatK7QQLfo.js line 2 > eval line 7710 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
