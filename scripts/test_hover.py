@@ -23,6 +23,7 @@ driver.implicitly_wait(10)
 a_elements = driver.find_elements(By.XPATH, "//div[contains(@class, 'sub-links')]//ul//li//a[@href]")
 links = [a.get_attribute('href') for a in a_elements]
 
+
 # Function to save page content
 def save_page_content(url, text_dir, img_dir):
     try:
@@ -62,17 +63,27 @@ def save_page_content(url, text_dir, img_dir):
 
         # Extract links from <div class="post_img"> and navigate to them
         post_img_divs = driver.find_elements(By.CLASS_NAME, 'post_img')
+        href_links = []
         for div in post_img_divs:
             a_tags = div.find_elements(By.TAG_NAME, 'a')
             for a in a_tags:
                 href = a.get_attribute('href')
                 if href:
-                    print(f'Found link in post_img div: {href}')
-                    navigate_and_extract(href, img_dir)
-                    
+                    href_links.append(href)
+        # print("Danh sách các liên kết:")
+                  
+        # for href in href_links:
+        #     print(href)
+
+    
+
+                        # navigate_and_extract(href, img_dir)
+         
     except Exception as e:
         logging.error(f"Error processing {url}: {e}")
 
+    return href_links
+      
 # Function to navigate to a link and extract image and text content
 def navigate_and_extract(link, img_dir):
     try:
@@ -104,9 +115,41 @@ def navigate_and_extract(link, img_dir):
     except Exception as e:
         logging.error(f"Error navigating to {link}: {e}")
 
+# import requests
+# from bs4 import BeautifulSoup
+
+# # Danh sách các liên kết
+# href_links = href_link
+
+# # Lặp qua từng liên kết trong danh sách href_link
+# for href_link in href_links:
+#     # Tải trang từ liên kết
+#     response = requests.get(href_link)
+#     if response.status_code == 200:
+#         # Phân tích cú pháp HTML của trang
+#         soup = BeautifulSoup(response.content, 'html.parser')
+        
+#         # Tìm các phần tử có class name là 'news-detail-thumb'
+#         detail_thumbs = soup.find_all(class_='news-detail-thumb')
+        
+#         # Lặp qua từng phần tử 'news-detail-thumb'
+#         for thumb in detail_thumbs:
+#             # Tìm tất cả các thẻ 'img' trong phần tử
+#             imgs = thumb.find_all('img')
+#             for img in imgs:
+#                 print("Image URL:", img['src'])  # In URL của hình ảnh
+            
+#         # Tìm các phần tử có class name là 'news-item-text'
+#         item_texts = soup.find_all(class_='news-item-text')
+        
+#         # Lặp qua từng phần tử 'news-item-text'
+#         for item_text in item_texts:
+#             print("News item text:", item_text.get_text(strip=True))  # In nội dung văn bản của tin tức
+
+
 # Process each main link
 for index, link in enumerate(links):
-    if link in ["https://vrtour.phenikaa-uni.edu.vn/", "https://tuyensinh.phenikaa-uni.edu.vn/dang-ky", "https://uwebristol.edu.vn/"]:
+    if link in ["https://vrtour.phenikaa-uni.edu.vn/", "https://tuyensinh.phenikaa-uni.edu.vn/dang-ky", "https://uwebristol.edu.vn/", "https://docs.google.com/forms/d/e/1FAIpQLScl15sR0yVAvkxg8JRM8WRLXP9-y0ygjJ1hfZrLxrvR5jBE_g/viewform"]:
         logging.info(f'Skipped link: {link}')
         continue
 
@@ -117,8 +160,17 @@ for index, link in enumerate(links):
     img_dir = os.path.join(output_dir, 'Img')
     os.makedirs(img_dir, exist_ok=True)
     
-    save_page_content(link, text_dir, img_dir)
+    href_links = save_page_content(link, text_dir, img_dir)
+    if href_links:
+        print("--------------------------")
+        print("list links are: \n")
+        print(href_links)
+        print("--------------------------")
+        for href_link in href_links:
+            navigate_and_extract(href_link, img_dir)
+
     logging.info(f'Content saved for link: {link}')
+
 
 # Close WebDriver
 driver.quit()
