@@ -23,7 +23,6 @@ driver.implicitly_wait(10)
 a_elements = driver.find_elements(By.XPATH, "//div[contains(@class, 'sub-links')]//ul//li//a[@href]")
 links = [a.get_attribute('href') for a in a_elements]
 
-
 # Function to save page content
 def save_page_content(url, text_dir, img_dir):
     try:
@@ -70,22 +69,14 @@ def save_page_content(url, text_dir, img_dir):
                 href = a.get_attribute('href')
                 if href:
                     href_links.append(href)
-        # print("Danh sách các liên kết:")
-                  
-        # for href in href_links:
-        #     print(href)
-
-    
-
-                        # navigate_and_extract(href, img_dir)
-         
+        
     except Exception as e:
         logging.error(f"Error processing {url}: {e}")
 
     return href_links
       
 # Function to navigate to a link and extract image and text content
-def navigate_and_extract(link, img_dir):
+def navigate_and_extract(link, text_dir, img_dir):
     try:
         driver.get(link)
         time.sleep(2)
@@ -105,47 +96,19 @@ def navigate_and_extract(link, img_dir):
                 except Exception as e:
                     logging.error(f"Error downloading image {img_link} from {link}: {e}")
         
-        # Extract and print text content in 'news-item-content-text' class
+        # Extract and save text content in 'news-item-content-text' class
         news_item_text_divs = driver.find_elements(By.CLASS_NAME, 'news-item-text')
         for div in news_item_text_divs:
             text_content = div.text
-            print(f'Text content from {link}:')
-            print(text_content)                                                       
-
+            filename = os.path.basename(urlparse(link).path)
+            text_filename = os.path.join(text_dir, f'{filename}.txt')
+            with open(text_filename, 'a', encoding='utf-8') as f:
+                f.write(f'URL: {link}\n\n')
+                f.write('Text content:\n')
+                f.write(text_content + '\n\n')
+            
     except Exception as e:
         logging.error(f"Error navigating to {link}: {e}")
-
-# import requests
-# from bs4 import BeautifulSoup
-
-# # Danh sách các liên kết
-# href_links = href_link
-
-# # Lặp qua từng liên kết trong danh sách href_link
-# for href_link in href_links:
-#     # Tải trang từ liên kết
-#     response = requests.get(href_link)
-#     if response.status_code == 200:
-#         # Phân tích cú pháp HTML của trang
-#         soup = BeautifulSoup(response.content, 'html.parser')
-        
-#         # Tìm các phần tử có class name là 'news-detail-thumb'
-#         detail_thumbs = soup.find_all(class_='news-detail-thumb')
-        
-#         # Lặp qua từng phần tử 'news-detail-thumb'
-#         for thumb in detail_thumbs:
-#             # Tìm tất cả các thẻ 'img' trong phần tử
-#             imgs = thumb.find_all('img')
-#             for img in imgs:
-#                 print("Image URL:", img['src'])  # In URL của hình ảnh
-            
-#         # Tìm các phần tử có class name là 'news-item-text'
-#         item_texts = soup.find_all(class_='news-item-text')
-        
-#         # Lặp qua từng phần tử 'news-item-text'
-#         for item_text in item_texts:
-#             print("News item text:", item_text.get_text(strip=True))  # In nội dung văn bản của tin tức
-
 
 # Process each main link
 for index, link in enumerate(links):
@@ -163,14 +126,12 @@ for index, link in enumerate(links):
     href_links = save_page_content(link, text_dir, img_dir)
     if href_links:
         print("--------------------------")
-        print("list links are: \n")
+        print("List of links are: \n")
         print(href_links)
-        print("--------------------------")
         for href_link in href_links:
-            navigate_and_extract(href_link, img_dir)
+            navigate_and_extract(href_link, text_dir, img_dir)
 
     logging.info(f'Content saved for link: {link}')
-
 
 # Close WebDriver
 driver.quit()
