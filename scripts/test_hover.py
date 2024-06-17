@@ -35,9 +35,10 @@ def save_page_content(url, text_dir, img_dir):
         driver.get(url)
         time.sleep(2)
         
-        # Extract text content
         try:
             text_content = driver.find_element(By.CLASS_NAME, 'row').text
+            remove_text = driver.find_element(By.CLASS_NAME, 'footer').text
+            text_content = text_content.replace(remove_text, '')
         except Exception as e:
             logging.error(f"Error extracting text content from {url}: {e}")
             text_content = ''
@@ -152,3 +153,4 @@ for index, link in enumerate(links):
 
 # Close WebDriver
 driver.quit()
+# //*[@id="areaFooter01"]/div/div
