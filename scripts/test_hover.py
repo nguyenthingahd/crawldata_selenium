@@ -11,7 +11,7 @@ import logging
 # Setup logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-output_dir = 'output_links'
+output_dir = '../data'
 os.makedirs(output_dir, exist_ok=True)
 
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
@@ -112,8 +112,9 @@ def navigate_and_extract(link, text_dir, img_dir):
             with open(text_filename, 'a', encoding='utf-8') as f:
                 f.write(f'URL: {link}\n\n')
                 f.write('Text content:\n')
-                f.write(text_content + '\n\n')
-            
+                f.write(text_content + '\n\n')  
+        
+
     except Exception as e:
         logging.error(f"Error navigating to {link}: {e}")
 
@@ -122,6 +123,32 @@ for index, link in enumerate(links):
     if link in ["https://vrtour.phenikaa-uni.edu.vn/", "https://tuyensinh.phenikaa-uni.edu.vn/dang-ky", "https://docs.google.com/forms/d/e/1FAIpQLScl15sR0yVAvkxg8JRM8WRLXP9-y0ygjJ1hfZrLxrvR5jBE_g/viewform"]:
         logging.info(f'Skipped link: {link}')
         continue
+
+    # Check if pagination elements exist on the page
+    pagination_elements = driver.find_elements(By.CLASS_NAME, 'pagination')
+    print("-----------------", pagination_elements)
+    page_number = 1
+    
+    while True:
+        # If pagination elements are found
+        if pagination_elements:
+            page_url = f"{link}/{page_number}"
+            driver.get(page_url)
+            print(f"Pagination found on page {page_number}")
+
+            logging.info(f'Navigating to page {page_number} of {link}')
+            
+            # Call your navigate_and_extract function here
+            navigate_and_extract(driver.current_url, text_dir, img_dir)
+            
+            # Check for pagination elements on the new page
+            pagination_elements = driver.find_elements(By.CLASS_NAME, 'pagination')
+            page_number += 1
+        else:
+            # If no pagination elements are found, exit the loop
+            print(f"No pagination found on page {page_number}")
+            break
+
 
     logging.info(f'Processing link: {link}')
     text_dir = os.path.join(output_dir, 'Text')
@@ -140,7 +167,7 @@ for index, link in enumerate(links):
     
     href_links = save_page_content(link, text_dir, img_dir)
     if href_links:
-        logging.info(f'List of href_links: {href_links}')
+        # logging.info(f'List of href_links: {href_links}')
         for href_link in href_links:
             if get_last_part_of_url(href_link) not in processed_last_parts:
                 logging.info(f'Processing href_link: {href_link}')
@@ -150,7 +177,8 @@ for index, link in enumerate(links):
                 logging.info(f'Skipped already processed href_link (by last part): {href_link}')
 
     logging.info(f'Content saved for link: {link}')
-
+    # for i in range (2, 10):
+    #     urll = url[:-1] + '/{}'.format(i)
+        
 # Close WebDriver
 driver.quit()
-# //*[@id="areaFooter01"]/div/div
