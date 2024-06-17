@@ -129,6 +129,7 @@ for index, link in enumerate(links):
     img_dir = os.path.join(output_dir, 'Img')
     os.makedirs(img_dir, exist_ok=True)
     
+    # Check if the last part of the URL has been processed
     last_part = get_last_part_of_url(link)
     if last_part in processed_last_parts:
         logging.info(f'Skipped already processed link (by last part): {link}')
