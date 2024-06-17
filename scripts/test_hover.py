@@ -23,7 +23,13 @@ driver.implicitly_wait(10)
 a_elements = driver.find_elements(By.XPATH, "//div[contains(@class, 'sub-links')]//ul//li//a[@href]")
 links = [a.get_attribute('href') for a in a_elements]
 
-# Function to save page content
+processed_links = set()
+processed_last_parts = set() 
+
+# url cuối
+def get_last_part_of_url(url):
+    return os.path.basename(urlparse(url).path)
+
 def save_page_content(url, text_dir, img_dir):
     try:
         driver.get(url)
@@ -40,13 +46,13 @@ def save_page_content(url, text_dir, img_dir):
         img_elements = driver.find_elements(By.TAG_NAME, 'img')
         img_links = [img.get_attribute('src') for img in img_elements]
         
-        # Extract file name from URL
-        filename = os.path.basename(urlparse(url).path)
-        text_filename = os.path.join(text_dir, f'{filename}.txt')
+        # Extract last part of URL
+        last_part = get_last_part_of_url(url)
+        text_filename = os.path.join(text_dir, f'{last_part}.txt')
         
         with open(text_filename, 'a', encoding='utf-8') as f:
             f.write(f'URL: {url}\n\n')
-            f.write(f'File Name: {filename}\n\n')  
+            f.write(f'File Name: {last_part}\n\n')  
             f.write('Text content:\n')
             f.write(text_content + '\n\n')
         
@@ -100,8 +106,8 @@ def navigate_and_extract(link, text_dir, img_dir):
         news_item_text_divs = driver.find_elements(By.CLASS_NAME, 'news-item-text')
         for div in news_item_text_divs:
             text_content = div.text
-            filename = os.path.basename(urlparse(link).path)
-            text_filename = os.path.join(text_dir, f'{filename}.txt')
+            last_part = get_last_part_of_url(link)
+            text_filename = os.path.join(text_dir, f'{last_part}.txt')
             with open(text_filename, 'a', encoding='utf-8') as f:
                 f.write(f'URL: {link}\n\n')
                 f.write('Text content:\n')
@@ -112,7 +118,7 @@ def navigate_and_extract(link, text_dir, img_dir):
 
 # Process each main link
 for index, link in enumerate(links):
-    if link in ["https://vrtour.phenikaa-uni.edu.vn/", "https://tuyensinh.phenikaa-uni.edu.vn/dang-ky", "https://uwebristol.edu.vn/", "https://docs.google.com/forms/d/e/1FAIpQLScl15sR0yVAvkxg8JRM8WRLXP9-y0ygjJ1hfZrLxrvR5jBE_g/viewform"]:
+    if link in ["https://vrtour.phenikaa-uni.edu.vn/", "https://tuyensinh.phenikaa-uni.edu.vn/dang-ky", "https://docs.google.com/forms/d/e/1FAIpQLScl15sR0yVAvkxg8JRM8WRLXP9-y0ygjJ1hfZrLxrvR5jBE_g/viewform"]:
         logging.info(f'Skipped link: {link}')
         continue
 
@@ -123,13 +129,23 @@ for index, link in enumerate(links):
     img_dir = os.path.join(output_dir, 'Img')
     os.makedirs(img_dir, exist_ok=True)
     
+    last_part = get_last_part_of_url(link)
+    if last_part in processed_last_parts:
+        logging.info(f'Skipped already processed link (by last part): {link}')
+        continue
+    else:
+        processed_last_parts.add(last_part)
+    
     href_links = save_page_content(link, text_dir, img_dir)
     if href_links:
-        print("--------------------------")
-        print("List of links are: \n")
-        print(href_links)
+        logging.info(f'List of href_links: {href_links}')
         for href_link in href_links:
-            navigate_and_extract(href_link, text_dir, img_dir)
+            if get_last_part_of_url(href_link) not in processed_last_parts:
+                logging.info(f'Processing href_link: {href_link}')
+                navigate_and_extract(href_link, text_dir, img_dir)
+                processed_last_parts.add(get_last_part_of_url(href_link))
+            else:
+                logging.info(f'Skipped already processed href_link (by last part): {href_link}')
 
     logging.info(f'Content saved for link: {link}')
 
