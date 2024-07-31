@@ -5,9 +5,9 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
-from selenium.webdriver.common.keys import Keys
 import os
 import logging
+import time
 
 # Setup logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -15,11 +15,31 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 output_dir = 'data'
 os.makedirs(output_dir, exist_ok=True)
 
+# Initialize WebDriver
+driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+driver.get("https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Thong-tu-111-2013-TT-BTC-Huong-dan-Luat-thue-thu-nhap-ca-nhan-va-Nghi-dinh-65-2013-ND-CP-205356.aspx")
+
+# Login process
 try:
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
-    driver.get('https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Thong-tu-92-2015-TT-BTC-huong-dan-thue-gia-tri-gia-tang-thue-thu-nhap-ca-nhan-282089.aspx?anchor=khoan_1_11')  # Thay đổi URL thành trang đăng nhập của bạn
+    username_field = driver.find_element(By.ID, 'usernameTextBox') 
+    password_field = driver.find_element(By.ID, 'passwordTextBox')  
+    login_button = driver.find_element(By.ID, "loginButton")
+
+    username_field.send_keys('thienthuehn')  
+    password_field.send_keys('0989044955')  
+    login_button.click()
+    time.sleep(1)
+    
+    try:
+        agree_button = driver.find_element(By.XPATH, "//span[@class='ui-button-text' and text()='Đồng ý']")
+        agree_button.click()
+        print("Đã nhấp vào nút 'Đồng ý'")
+    except Exception as e:
+        print("Phần tử 'Đồng ý' không xuất hiện hoặc có lỗi:", e)
+
+    # Navigate to the content page
+    driver.get('https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Thong-tu-111-2013-TT-BTC-Huong-dan-Luat-thue-thu-nhap-ca-nhan-va-Nghi-dinh-65-2013-ND-CP-205356.aspx')  
     wait = WebDriverWait(driver, 10)
-    # Locate the div with id 'tab1' and class 'contentDoc'
     div_element = wait.until(EC.presence_of_element_located((By.ID, 'tab1')))
 
     # Find all paragraph elements within the div
@@ -31,10 +51,44 @@ try:
     # Prepare file for saving data
     output_file_path = os.path.join(output_dir, 'extracted_data.txt')
     with open(output_file_path, 'w', encoding='utf-8') as file:
+        seen_content = set()
         for p in p_elements:
             try:
                 text = p.text
-                file.write(text + '\n')
+
+                links = p.find_elements(By.XPATH, ".//a[contains(@onclick, 'LS_Tip_Type_Bookmark') and not(contains(@onclick, 'LS_Tip_Type_Bookmark_bm')) and not(contains(@onclick, 'LS_Tip_Type_Bookmark_dc'))]")
+
+                if links:
+                    # If links are found, process them
+                    for i, link in enumerate(links):
+                        try:
+                            driver.execute_script("arguments[0].click();", link)
+                            
+                            # Wait for the popup or content to be visible
+                            WebDriverWait(driver, 10).until(
+                                EC.visibility_of_element_located((By.CSS_SELECTOR, '.ctOld.scroll_left'))
+                            )
+                            
+                            ct_old = driver.find_element(By.CSS_SELECTOR, '.ctOld.scroll_left')
+                            text_ct_old = ct_old.text.strip()
+
+                            ct_new = driver.find_element(By.CSS_SELECTOR, '.ct.scroll_right')
+                            text_ct_new = ct_new.text.strip()
+
+                            # Create a unique content string
+                            content_string = f"{text_ct_old}\n\n{text_ct_new}\n{'-'*50}\n"
+
+                            if content_string not in seen_content:
+                                file.write(content_string)
+                                seen_content.add(content_string)
+                            time.sleep(1)
+
+                        except Exception as e:
+                            logging.error(f"Lỗi khi xử lý liên kết {i + 1}: {e}")
+                else:
+                    # If no links are found, write the text directly
+                    file.write(text + '\n')
+
             except Exception as e:
                 logging.error(f'Error processing paragraph: {e}')
 except Exception as e:

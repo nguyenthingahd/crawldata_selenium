@@ -3,20 +3,385 @@
 
 
 
+
+
 BỘ TÀI CHÍNH
---------
+-------
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 ---------------
-Số: 92/2015/TT-BTC
-Hà Nội, ngày 15 tháng 06 năm 2015
-
+Số: 111/2013/TT-BTC
+Hà Nội, ngày 15 tháng 08 năm 2013
+ 
 THÔNG TƯ
-HƯỚNG DẪN THỰC HIỆN THUẾ GIÁ TRỊ GIA TĂNG VÀ THUẾ THU NHẬP CÁ NHÂN ĐỐI VỚI CÁ NHÂN CƯ TRÚ CÓ HOẠT ĐỘNG KINH DOANH; HƯỚNG DẪN THỰC HIỆN MỘT SỐ NỘI DUNG SỬA ĐỔI, BỔ SUNG VỀ THUẾ THU NHẬP CÁ NHÂN QUY ĐỊNH TẠI LUẬT SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA CÁC LUẬT VỀ THUẾ SỐ 71/2014/QH13 VÀ NGHỊ ĐỊNH SỐ 12/2015/NĐ-CP NGÀY 12/02/2015 CỦA CHÍNH PHỦ QUY ĐỊNH CHI TIẾT THI HÀNH LUẬT SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA CÁC LUẬT VỀ THUẾ VÀ SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA CÁC NGHỊ ĐỊNH VỀ THUẾ
-Căn cứ Luật Thuế thu nhập cá nhân số 04/2007/QH12 ngày 21 tháng 11 năm 2007; và Luật sửa đổi, bổ sung một số điều của Luật Thuế thu nhập cá nhân số 26/2012/QH13 ngày 22 tháng 11 năm 2012;
-Căn cứ Luật Quản lý thuế số 78/2006/QH11 ngày 29 tháng 11 năm 2006; và Luật sửa đổi, bổ sung một số điều của Luật Quản lý thuế số 21/2012/QH13 ngày 20 tháng 11 năm 2012;
-Căn cứ Luật sửa đổi, bổ sung một số điều của các Luật về thuế số 71/2014/QH13 ngày 26 tháng 11 năm 2014;
-Căn cứ Luật thuế giá trị gia tăng số 13/2008/QH12 ngày 03 tháng 6 năm 2008 đã được sửa đổi, bổ sung một số điều theo Luật thuế giá trị gia tăng số 31/2013/QH13 ngày 19 tháng 6 năm 2013;
+HƯỚNG DẪN THỰC HIỆN LUẬT THUẾ THU NHẬP CÁ NHÂN, LUẬT SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT THUẾ THU NHẬP CÁ NHÂN VÀ NGHỊ ĐỊNH SỐ 65/2013/NĐ-CP CỦA CHÍNH PHỦ QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT THUẾ THU NHẬP CÁ NHÂN VÀ LUẬT SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT THUẾ THU NHẬP CÁ NHÂN
+Căn cứ Luật Thuế thu nhập cá nhân số 04/2007/QH12 ngày 21 tháng 11 năm 2007;
+Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Thuế thu nhập cá nhân số 26/2012/QH13 ngày 22 tháng 11 năm 2012;
+Căn cứ Luật quản lý thuế số 78/2006/QH11 ngày 29 tháng 11 năm 2006;
+Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Quản lý thuế số 21/2012/QH13 ngày 20 tháng 11 năm 2012;
 Căn cứ Nghị định số 65/2013/NĐ-CP ngày 27 tháng 6 năm 2013 của Chính phủ quy định chi tiết một số điều của Luật Thuế thu nhập cá nhân và Luật sửa đổi, bổ sung một số điều của Luật Thuế thu nhập cá nhân;
 Căn cứ Nghị định số 83/2013/NĐ-CP ngày 22 tháng 7 năm 2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật Quản lý thuế và Luật sửa đổi, bổ sung một số điều của Luật Quản lý thuế;
-Căn cứ Nghị định số 12/2015/NĐ-CP ngày 12 tháng 02 năm 2015 của Chính phủ quy định chi tiết thi hành Luật sửa đổi, bổ sung một số điều của các Luật về thuế và sửa đổi, bổ sung một số điều của các Nghị định về thuế;
+Căn cứ Nghị định số 118/2008/NĐ-CP ngày 27 tháng 11 năm 2008 của Chính phủ quy định về chức năng nhiệm vụ, quyền hạn và cơ cấu tổ chức Bộ Tài chính;
+Theo đề nghị của Tổng cục trưởng Tổng cục Thuế;
+Bộ trưởng Bộ Tài chính hướng dẫn thực hiện một số điều của Luật Thuế thu nhập cá nhân, Luật sửa đổi, bổ sung một số điều của Luật Thuế thu nhập cá nhân và Nghị định số 65/2013/NĐ-CP ngày 27 tháng 6 năm 2013 của Chính phủ quy định chi tiết một số điều của Luật Thuế thu nhập cá nhân và Luật sửa đổi, bổ sung một số điều của Luật Thuế thu nhập cá nhân như sau:
+Chương 1.
+QUY ĐỊNH CHUNG
+Điều 1. Người nộp thuế
+Nội dung gốc
+Người nộp thuế là cá nhân cư trú và cá nhân không cư trú theo quy định tại Điều 2 Luật Thuế thu nhập cá nhân, Điều 2 Nghị định số 65/2013/NĐ-CP ngày 27/6/2013 của Chính phủ quy định chi tiết một số điều của Luật Thuế thu nhập cá nhân và Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập cá nhân (sau đây gọi tắt là Nghị định số 65/2013/NĐ-CP), có thu nhập chịu thuế theo quy định tại Điều 3 Luật Thuế thu nhập cá nhân và Điều 3 Nghị định số 65/2013/NĐ-CP.
+
+Nội dung sửa đổi, hướng dẫn
+Xem nội dung VB
+
+Điều 2. Sửa đổi, bổ sung các khổ 1, 2, 3, 4 Điều 1 Thông tư số 111/2013/TT-BTC ngày 15/8/2013 của Bộ Tài chính hướng dẫn thực hiện Luật Thuế thu nhập cá nhân, Luật sửa đổi, bổ sung một số điều của Luật Thuế thu nhập cá nhân và Nghị định số 65/2013/NĐ-CP của Chính phủ quy định chi tiết một số điều của Luật Thuế thu nhập cá nhân và Luật sửa đổi, bổ sung một số điều của Luật Thuế thu nhập cá nhân như sau:
+
+“Điều 1. Người nộp thuế
+
+Người nộp thuế là cá nhân cư trú và cá nhân không cư trú theo quy định tại Điều 2 Luật Thuế thu nhập cá nhân, Điều 2 Nghị định số 65/2013/NĐ-CP ngày 27/6/2013 của Chính phủ quy định chi tiết một số điều của Luật Thuế thu nhập cá nhân và Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập cá nhân (sau đây gọi tắt là Nghị định số 65/2013/NĐ-CP), có thu nhập chịu thuế theo quy định tại Điều 3 Luật Thuế thu nhập cá nhân và Điều 3 Nghị định số 65/2013/NĐ-CP.
+
+Xem nội dung VB
+--------------------------------------------------
+Nội dung gốc
+Phạm vi xác định thu nhập chịu thuế của người nộp thuế như sau:
+
+Nội dung sửa đổi, hướng dẫn
+Xem nội dung VB
+
+Điều 2. Sửa đổi, bổ sung các khổ 1, 2, 3, 4 Điều 1 Thông tư số 111/2013/TT-BTC ngày 15/8/2013 của Bộ Tài chính hướng dẫn thực hiện Luật Thuế thu nhập cá nhân, Luật sửa đổi, bổ sung một số điều của Luật Thuế thu nhập cá nhân và Nghị định số 65/2013/NĐ-CP của Chính phủ quy định chi tiết một số điều của Luật Thuế thu nhập cá nhân và Luật sửa đổi, bổ sung một số điều của Luật Thuế thu nhập cá nhân như sau:
+
+“Điều 1. Người nộp thuế
+...
+Phạm vi xác định thu nhập chịu thuế của người nộp thuế như sau:
+
+Đối với cá nhân cư trú, thu nhập chịu thuế là thu nhập phát sinh trong và ngoài lãnh thổ Việt Nam, không phân biệt nơi trả thu nhập;
+
+Đối với cá nhân là công dân của quốc gia, vùng lãnh thổ đã ký kết Hiệp định với Việt Nam về tránh đánh thuế hai lần và ngăn ngừa việc trốn lậu thuế đối với các loại thuế đánh vào thu nhập và là cá nhân cư trú tại Việt Nam thì nghĩa vụ thuế thu nhập cá nhân được tính từ tháng đến Việt Nam trong trường hợp cá nhân lần đầu tiên có mặt tại Việt Nam đến tháng kết thúc hợp đồng lao động và rời Việt Nam (được tính đủ theo tháng) không phải thực hiện các thủ tục xác nhận lãnh sự để được thực hiện không thu thuế trùng hai lần theo Hiệp định tránh đánh thuế trùng giữa hai quốc gia.
+
+Đối với cá nhân không cư trú, thu nhập chịu thuế là thu nhập phát sinh tại Việt Nam, không phân biệt nơi trả và nhận thu nhập”
+
+Xem nội dung VB
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nội dung gốc
+Điều 2. Các khoản thu nhập chịu thuế
+...
+2. Thu nhập từ tiền lương, tiền công
+...
+b) Các khoản phụ cấp, trợ cấp, trừ các khoản phụ cấp, trợ cấp sau:
+...
+b.9) Trợ cấp một lần đối với cá nhân khi chuyển công tác đến vùng có điều kiện kinh tế xã hội đặc biệt khó khăn, hỗ trợ một lần đối với cán bộ công chức làm công tác về chủ quyền biển đảo theo quy định của pháp luật. Trợ cấp chuyển vùng một lần đối với người nước ngoài đến cư trú tại Việt Nam, người Việt Nam đi làm việc ở nước ngoài.
+
+Nội dung sửa đổi, hướng dẫn
+Xem nội dung VB
+
+Điều 11. Sửa đổi, bổ sung Điều 2 Thông tư số 111/2013/TT-BTC ngày 15/8/2013 của Bộ Tài chính hướng dẫn thực hiện Luật Thuế thu nhập cá nhân, Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập cá nhân và Nghị định số 65/2013/NĐ-CP của Chính phủ quy định chi tiết một số điều của Luật Thuế thu nhập cá nhân và Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập cá nhân (sau đây gọi là Thông tư số 111/2013/TT-BTC) như sau:
+
+1. Sửa đổi, bổ sung tiết b.9 điểm b khoản 2 Điều 2
+
+“b.9) Trợ cấp một lần đối với cá nhân khi chuyển công tác đến vùng có điều kiện kinh tế xã hội đặc biệt khó khăn, hỗ trợ một lần đối với cán bộ công chức làm công tác về chủ quyền biển đảo theo quy định của pháp luật. Trợ cấp chuyển vùng một lần đối với người nước ngoài đến cư trú tại Việt Nam, người Việt Nam đi làm việc ở nước ngoài, người Việt Nam cư trú dài hạn ở nước ngoài về Việt Nam làm việc.”
+
+Xem nội dung VB
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+Nội dung gốc
+Điều 2. Các khoản thu nhập chịu thuế
+...
+2. Thu nhập từ tiền lương, tiền công
+...
+đ) Các khoản lợi ích bằng tiền hoặc không bằng tiền ngoài tiền lương, tiền công do người sử dụng lao động trả mà người nộp thuế được hưởng dưới mọi hình thức:
+
+đ.1) Tiền nhà ở, điện, nước và các dịch vụ kèm theo (nếu có).
+
+Trường hợp cá nhân ở tại trụ sở làm việc thì thu nhập chịu thuế căn cứ vào tiền thuê nhà hoặc chi phí khấu hao, tiền điện, nước và các dịch vụ khác tính theo tỷ lệ giữa diện tích cá nhân sử dụng với diện tích trụ sở làm việc.
+
+Khoản tiền thuê nhà do đơn vị sử dụng lao động trả hộ tính vào thu nhập chịu thuế theo số thực tế trả hộ nhưng không vượt quá 15% tổng thu nhập chịu thuế (chưa bao gồm tiền thuê nhà) tại đơn vị.
+
+Nội dung sửa đổi, hướng dẫn
+Xem nội dung VB
+
+Điều 11. Sửa đổi, bổ sung Điều 2 Thông tư số 111/2013/TT-BTC ngày 15/8/2013 của Bộ Tài chính hướng dẫn thực hiện Luật Thuế thu nhập cá nhân, Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập cá nhân và Nghị định số 65/2013/NĐ-CP của Chính phủ quy định chi tiết một số điều của Luật Thuế thu nhập cá nhân và Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập cá nhân (sau đây gọi là Thông tư số 111/2013/TT-BTC) như sau:
+...
+2. Sửa đổi, bổ sung tiết đ.1 điểm đ khoản 2 Điều 2
+
+“đ.1) Tiền nhà ở, điện, nước và các dịch vụ kèm theo (nếu có), không bao gồm: khoản lợi ích về nhà ở, điện nước và các dịch vụ kèm theo (nếu có) đối với nhà ở do người sử dụng lao động xây dựng để cung cấp miễn phí cho người lao động làm việc tại khu công nghiệp; nhà ở do người sử dụng lao động xây dựng tại khu kinh tế, địa bàn có điều kiện kinh tế xã hội khó khăn, địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn cung cấp miễn phí cho người lao động.
+
+Trường hợp cá nhân ở tại trụ sở làm việc thì thu nhập chịu thuế căn cứ vào tiền thuê nhà hoặc chi phí khấu hao, tiền điện, nước và các dịch vụ khác tính theo tỷ lệ giữa diện tích cá nhân sử dụng với diện tích trụ sở làm việc.
+
+Khoản tiền thuê nhà, điện nước và các dịch vụ kèm theo (nếu có) đối với nhà ở do đơn vị sử dụng lao động trả hộ tính vào thu nhập chịu thuế theo số thực tế trả hộ nhưng không vượt quá 15% tổng thu nhập chịu thuế phát sinh (chưa bao gồm tiền thuê nhà) tại đơn vị không phân biệt nơi trả thu nhập.”
+
+Xem nội dung VB
+--------------------------------------------------
+
+
+Nội dung gốc
+Điều 2. Các khoản thu nhập chịu thuế
+...
+2. Thu nhập từ tiền lương, tiền công
+...
+đ) Các khoản lợi ích bằng tiền hoặc không bằng tiền ngoài tiền lương, tiền công do người sử dụng lao động trả mà người nộp thuế được hưởng dưới mọi hình thức:
+...
+đ.2) Khoản tiền phí mua bảo hiểm nhân thọ, bảo hiểm không bắt buộc khác, tiền đóng góp quỹ hưu trí tự nguyện do người sử dụng lao động mua hoặc đóng góp cho người lao động đối với những sản phẩm bảo hiểm có tích lũy về phí bảo hiểm.
+
+Nội dung sửa đổi, hướng dẫn
+Xem nội dung VB
+
+Điều 11. Sửa đổi, bổ sung Điều 2 Thông tư số 111/2013/TT-BTC ngày 15/8/2013 của Bộ Tài chính hướng dẫn thực hiện Luật Thuế thu nhập cá nhân, Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập cá nhân và Nghị định số 65/2013/NĐ-CP của Chính phủ quy định chi tiết một số điều của Luật Thuế thu nhập cá nhân và Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập cá nhân (sau đây gọi là Thông tư số 111/2013/TT-BTC) như sau:
+...
+3. Sửa đổi, bổ sung tiết đ.2 điểm đ khoản 2 Điều 2
+
+“đ.2) Khoản tiền do người sử dụng lao động mua bảo hiểm nhân thọ, bảo hiểm không bắt buộc khác có tích lũy về phí bảo hiểm; mua bảo hiểm hưu trí tự nguyện hoặc đóng góp Quỹ hưu trí tự nguyện cho người lao động.
+
+Trường hợp người sử dụng lao động mua cho người lao động sản phẩm bảo hiểm không bắt buộc và không có tích lũy về phí bảo hiểm (kể cả trường hợp mua bảo hiểm của các doanh nghiệp bảo hiểm không thành lập và hoạt động theo pháp luật Việt Nam được phép bán bảo hiểm tại Việt Nam) thì khoản tiền phí mua sản phẩm bảo hiểm này không tính vào thu nhập chịu thuế thu nhập cá nhân của người lao động. Bảo hiểm không bắt buộc và không có tích lũy về phí bảo hiểm gồm các sản phẩm bảo hiểm như: bảo hiểm sức khoẻ, bảo hiểm tử kỳ (không bao gồm sản phẩm bảo hiểm tử kỳ có hoàn phí), ... mà người tham gia bảo hiểm không nhận được tiền phí tích lũy từ việc tham gia bảo hiểm, ngoài khoản tiền bảo hiểm hoặc bồi thường theo thoả thuận tại hợp đồng bảo hiểm do doanh nghiệp bảo hiểm trả.”
+
+Xem nội dung VB
+--------------------------------------------------
+
+
+
+
+
+
+
+Nội dung gốc
+Điều 2. Các khoản thu nhập chịu thuế
+...
+2. Thu nhập từ tiền lương, tiền công
+...
+đ) Các khoản lợi ích bằng tiền hoặc không bằng tiền ngoài tiền lương, tiền công do người sử dụng lao động trả mà người nộp thuế được hưởng dưới mọi hình thức:
+...
+đ.5) Đối với khoản chi về phương tiện phục vụ đưa đón tập thể người lao động từ nơi ở đến nơi làm việc và ngược lại thì không tính vào thu nhập chịu thuế của người lao động; trường hợp chỉ đưa đón riêng từng cá nhân thì phải tính vào thu nhập chịu thuế của cá nhân được đưa đón.
+
+Nội dung sửa đổi, hướng dẫn
+Xem nội dung VB
+
+Điều 11. Sửa đổi, bổ sung Điều 2 Thông tư số 111/2013/TT-BTC ngày 15/8/2013 của Bộ Tài chính hướng dẫn thực hiện Luật Thuế thu nhập cá nhân, Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập cá nhân và Nghị định số 65/2013/NĐ-CP của Chính phủ quy định chi tiết một số điều của Luật Thuế thu nhập cá nhân và Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập cá nhân (sau đây gọi là Thông tư số 111/2013/TT-BTC) như sau:
+...
+4. Sửa đổi, bổ sung tiết đ.5 điểm đ khoản 2 Điều 2
+
+“đ.5) Đối với khoản chi về phương tiện phục vụ đưa đón người lao động từ nơi ở đến nơi làm việc và ngược lại thì không tính vào thu nhập chịu thuế của người lao động theo quy chế của đơn vị.”
+
+Xem nội dung VB
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nội dung gốc
+Điều 2. Các khoản thu nhập chịu thuế
+...
+2. Thu nhập từ tiền lương, tiền công
+...
+g) Không tính vào thu nhập chịu thuế đối với các khoản sau:
+
+g.1) Khoản hỗ trợ của người sử dụng lao động cho việc khám chữa bệnh hiểm nghèo cho bản thân người lao động và thân nhân của người lao động.
+
+g.1.1) Thân nhân của người lao động trong trường hợp này bao gồm: con đẻ, con nuôi hợp pháp, con ngoài giá thú, con riêng của vợ hoặc chồng; vợ hoặc chồng; cha đẻ, mẹ đẻ; cha vợ, mẹ vợ (hoặc cha chồng, mẹ chồng); cha dượng, mẹ kế; cha nuôi, mẹ nuôi hợp pháp.
+
+g.1.2) Mức hỗ trợ không tính vào thu nhập chịu thuế là số tiền thực tế chi trả theo chứng từ trả tiền viện phí nhưng tối đa không quá số tiền trả viện phí của người lao động và thân nhân người lao động sau khi đã trừ số tiền chi trả của tổ chức bảo hiểm.
+
+g.1.3) Người sử dụng lao động chi tiền hỗ trợ có trách nhiệm: lưu giữ bản sao chứng từ trả tiền viện phí có xác nhận của người sử dụng lao động (trong trường hợp người lao động và thân nhân người lao động trả phần còn lại sau khi tổ chức bảo hiểm trả trực tiếp với cơ sở khám chữa bệnh) hoặc bản sao chứng từ trả viện phí; bản sao chứng từ chi bảo hiểm y tế có xác nhận của người sử dụng lao động (trong trường hợp người lao động và thân nhân người lao động trả toàn bộ viện phí, tổ chức bảo hiểm trả tiền bảo hiểm cho người lao động và thân nhân người lao động) cùng với chứng từ chi tiền hỗ trợ cho người lao động và thân nhân người lao động mắc bệnh hiểm nghèo.
+
+g.2) Khoản tiền nhận được theo quy định về sử dụng phương tiện đi lại trong cơ quan Nhà nước, đơn vị sự nghiệp công lập, tổ chức Đảng, đoàn thể.
+
+g.3) Khoản tiền nhận được theo chế độ nhà ở công vụ theo quy định của pháp luật.
+
+g.4) Các khoản nhận được ngoài tiền lương, tiền công do tham gia ý kiến, thẩm định, thẩm tra các văn bản pháp luật, Nghị quyết, các báo cáo chính trị; tham gia các đoàn kiểm tra giám sát; tiếp cử tri, tiếp công dân; trang phục và các công việc khác có liên quan đến phục vụ trực tiếp hoạt động của Văn phòng Quốc hội, Hội đồng dân tộc và các Ủy ban của Quốc hội, các Đoàn đại biểu Quốc hội; Văn phòng Trung ương và các Ban của Đảng; Văn phòng Thành ủy, Tỉnh ủy và các Ban của Thành uỷ, Tỉnh ủy.
+
+g.5) Khoản tiền ăn giữa ca, ăn trưa do người sử dụng lao động tổ chức bữa ăn giữa ca, ăn trưa cho người lao động dưới các hình thức như trực tiếp nấu ăn, mua suất ăn, cấp phiếu ăn.
+
+Trường hợp người sử dụng lao động không tổ chức bữa ăn giữa ca, ăn trưa mà chi tiền cho người lao động thì không tính vào thu nhập chịu thuế của cá nhân nếu mức chi phù hợp với hướng dẫn của Bộ Lao động - Thương binh và Xã hội. Trường hợp mức chi cao hơn mức hướng dẫn của Bộ Lao động - Thương binh và Xã hội thì phần chi vượt mức phải tính vào thu nhập chịu thuế của cá nhân.
+
+Mức chi cụ thể áp dụng đối với doanh nghiệp Nhà nước và các tổ chức, đơn vị thuộc cơ quan hành chính sự nghiệp, Đảng, Đoàn thể, các Hội không quá mức hướng dẫn của Bộ Lao động - Thương binh và Xã hội. Đối với các doanh nghiệp ngoài Nhà nước và các tổ chức khác, mức chi do thủ trưởng đơn vị thống nhất với chủ tịch công đoàn quyết định nhưng tối đa không vượt quá mức áp dụng đối với doanh nghiệp Nhà nước.
+
+g.6) Khoản tiền mua vé máy bay khứ hồi do người sử dụng lao động trả hộ (hoặc thanh toán) cho người lao động là người nước ngoài làm việc tại Việt Nam, người lao động là người Việt Nam làm việc ở nước ngoài về phép mỗi năm một lần.
+
+Căn cứ xác định khoản tiền mua vé máy bay là hợp đồng lao động và khoản tiền thanh toán vé máy bay từ Việt Nam đến quốc gia người nước ngoài mang quốc tịch hoặc quốc gia nơi gia đình người nước ngoài sinh sống và ngược lại; khoản tiền thanh toán vé máy bay từ quốc gia nơi người Việt Nam đang làm việc về Việt Nam và ngược lại.
+
+g.7) Khoản tiền học phí cho con của người lao động nước ngoài làm việc tại Việt Nam học tại Việt Nam, con của người lao động Việt Nam đang làm việc ở nước ngoài học tại nước ngoài theo bậc học từ mầm non đến trung học phổ thông do người sử dụng lao động trả hộ.
+
+g.8) Các khoản thu nhập cá nhân nhận được từ các Hội, tổ chức tài trợ không phải tính vào thu nhập chịu thuế thu nhập cá nhân nếu cá nhân nhận tài trợ là thành viên của Hội, của tổ chức; kinh phí tài trợ được sử dụng từ nguồn kinh phí Nhà nước hoặc được quản lý theo quy định của Nhà nước; việc sáng tác các tác phẩm văn học nghệ thuật, công trình nghiên cứu khoa học... thực hiện nhiệm vụ chính trị của Nhà nước hay theo chương trình hoạt động phù hợp với Điều lệ của Hội, tổ chức đó.
+
+g.9) Các khoản thanh toán mà người sử dụng lao động trả để phục vụ việc điều động, luân chuyển người lao động là người nước ngoài làm việc tại Việt Nam theo quy định tại hợp đồng lao động, tuân thủ lịch lao động chuẩn theo thông lệ quốc tế của một số ngành như dầu khí, khai khoáng.
+
+Căn cứ xác định là hợp đồng lao động và khoản tiền thanh toán vé máy bay từ Việt Nam đến quốc gia nơi người nước ngoài cư trú và ngược lại.
+
+Ví dụ 1: Ông X là người nước ngoài được nhà thầu dầu khí Y điều chuyển đến làm việc tại giàn khoan trên thềm lục địa Việt Nam. Theo quy định tại hợp đồng lao động, chu kỳ làm việc của ông X tại giàn khoan là 28 ngày liên tục, sau đó được nghỉ 28 ngày. Nhà thầu Y thanh toán cho ông X các khoản tiền vé máy bay từ nước ngoài đến Việt Nam và ngược lại mỗi lần đổi ca, chi phí cung cấp trực thăng đưa đón ông X chặng từ đất liền Việt Nam ra giàn khoan và ngược lại, chi phí lưu trú trong trường hợp ông X chờ chuyến bay trực thăng đưa ra giàn khoan làm việc thì không tính các khoản tiền này vào thu nhập chịu thuế thu nhập cá nhân của ông X.
+
+Nội dung sửa đổi, hướng dẫn
+Xem nội dung VB
+
+Điều 11. Sửa đổi, bổ sung Điều 2 Thông tư số 111/2013/TT-BTC ngày 15/8/2013 của Bộ Tài chính hướng dẫn thực hiện Luật Thuế thu nhập cá nhân, Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập cá nhân và Nghị định số 65/2013/NĐ-CP của Chính phủ quy định chi tiết một số điều của Luật Thuế thu nhập cá nhân và Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập cá nhân (sau đây gọi là Thông tư số 111/2013/TT-BTC) như sau:
+...
+5. Bổ sung tiết g.10 điểm g khoản 2 Điều 2
+
+“g.10) Khoản tiền nhận được do tổ chức, cá nhân trả thu nhập chi đám hiếu, hỉ cho bản thân và gia đình người lao động theo quy định chung của tổ chức, cá nhân trả thu nhập và phù hợp với mức xác định thu nhập chịu thuế thu nhập doanh nghiệp theo các văn bản hướng dẫn thi hành Luật thuế thu nhập doanh nghiệp”
+
+Xem nội dung VB
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nội dung gốc
+Điều 2. Các khoản thu nhập chịu thuế
+...
+3. Thu nhập từ đầu tư vốn
+...
+c) Lợi tức nhận được do tham gia góp vốn vào công ty trách nhiệm hữu hạn (bao gồm cả Công ty trách nhiệm hữu hạn một thành viên), công ty hợp danh, hợp tác xã, liên doanh, hợp đồng hợp tác kinh doanh và các hình thức kinh doanh khác theo quy định của Luật Doanh nghiệp và Luật Hợp tác xã; lợi tức nhận được do tham gia góp vốn thành lập tổ chức tín dụng theo quy định của Luật các tổ chức tín dụng; góp vốn vào Quỹ đầu tư chứng khoán và quỹ đầu tư khác được thành lập và hoạt động theo quy định của pháp luật.
+
+Nội dung sửa đổi, hướng dẫn
+Xem nội dung VB
+
+Điều 11. Sửa đổi, bổ sung Điều 2 Thông tư số 111/2013/TT-BTC ngày 15/8/2013 của Bộ Tài chính hướng dẫn thực hiện Luật Thuế thu nhập cá nhân, Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập cá nhân và Nghị định số 65/2013/NĐ-CP của Chính phủ quy định chi tiết một số điều của Luật Thuế thu nhập cá nhân và Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập cá nhân (sau đây gọi là Thông tư số 111/2013/TT-BTC) như sau:
+...
+6. Sửa đổi, bổ sung điểm c khoản 3 Điều 2
+
+“c) Lợi tức nhận được do tham gia góp vốn vào công ty trách nhiệm hữu hạn, công ty hợp danh, hợp tác xã, liên doanh, hợp đồng hợp tác kinh doanh và các hình thức kinh doanh khác theo quy định của Luật Doanh nghiệp và Luật Hợp tác xã; lợi tức nhận được do tham gia góp vốn thành lập tổ chức tín dụng theo quy định của Luật các tổ chức tín dụng; góp vốn vào Quỹ đầu tư chứng khoán và quỹ đầu tư khác được thành lập và hoạt động theo quy định của pháp luật.
+
+Không tính vào thu nhập chịu thuế từ đầu tư vốn đối với lợi tức của doanh nghiệp tư nhân, công ty trách nhiệm hữu hạn một thành viên do cá nhân làm chủ.”
+
+Xem nội dung VB
+--------------------------------------------------
+
+
+
+
+
+
+
+Nội dung gốc
+Điều 2. Các khoản thu nhập chịu thuế
+...
+4. Thu nhập từ chuyển nhượng vốn
+...
+b) Thu nhập từ chuyển nhượng chứng khoán, bao gồm: thu nhập từ chuyển nhượng cổ phiếu, quyền mua cổ phiếu, trái phiếu, tín phiếu, chứng chỉ quỹ và các loại chứng khoán khác theo quy định của Luật Chứng khoán; thu nhập từ chuyển nhượng cổ phần của các cá nhân trong công ty cổ phần theo quy định của Luật Doanh nghiệp.
+
+Nội dung sửa đổi, hướng dẫn
+Xem nội dung VB
+
+Điều 4. Sửa đổi, bổ sung điểm b khoản 4 Điều 2 Thông tư số 111/2013/TT-BTC ngày 15/8/2013 của Bộ Tài chính như sau:
+
+“b. Thu nhập từ chuyển nhượng chứng khoán, bao gồm: thu nhập từ chuyển nhượng cổ phiếu, quyền mua cổ phiếu, trái phiếu, tín phiếu, chứng chỉ quỹ và các loại chứng khoán khác theo quy định tại khoản 1 Điều 6 của Luật chứng khoán. Thu nhập từ chuyển nhượng cổ phiếu của các cá nhân trong công ty cổ phần theo quy định tại khoản 2 Điều 6 của Luật chứng khoán và Điều 120 của Luật doanh nghiệp.”
+
+Xem nội dung VB
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nội dung gốc
+Điều 2. Các khoản thu nhập chịu thuế
+...
+6. Thu nhập từ trúng thưởng
+...
+d) Trúng thưởng trong các casino được pháp luật cho phép hoạt động.
+
+Nội dung sửa đổi, hướng dẫn
+Xem nội dung VB
+
+Điều 25. Hiệu lực thi hành
+...
+7. Bãi bỏ điểm d khoản 6 Điều 2 Thông tư số 111/2013/TT-BTC hướng dẫn về thuế thu nhập cá nhân đối với cá nhân có thu nhập từ trúng thưởng casino.
+
+Xem nội dung VB
+--------------------------------------------------
