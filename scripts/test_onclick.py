@@ -5,6 +5,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.common.keys import Keys
 import os
 import logging
 
@@ -16,9 +17,8 @@ os.makedirs(output_dir, exist_ok=True)
 
 try:
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
-    driver.get("https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Thong-tu-111-2013-TT-BTC-Huong-dan-Luat-thue-thu-nhap-ca-nhan-va-Nghi-dinh-65-2013-ND-CP-205356.aspx")
+    driver.get('https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Thong-tu-92-2015-TT-BTC-huong-dan-thue-gia-tri-gia-tang-thue-thu-nhap-ca-nhan-282089.aspx?anchor=khoan_1_11')  # Thay đổi URL thành trang đăng nhập của bạn
     wait = WebDriverWait(driver, 10)
-
     # Locate the div with id 'tab1' and class 'contentDoc'
     div_element = wait.until(EC.presence_of_element_located((By.ID, 'tab1')))
 
