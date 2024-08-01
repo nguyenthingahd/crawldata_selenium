@@ -33,7 +33,6 @@ try:
     try:
         agree_button = driver.find_element(By.XPATH, "//span[@class='ui-button-text' and text()='Đồng ý']")
         agree_button.click()
-        print("Đã nhấp vào nút 'Đồng ý'")
     except Exception as e:
         print("Phần tử 'Đồng ý' không xuất hiện hoặc có lỗi:", e)
 
@@ -53,44 +52,38 @@ try:
     with open(output_file_path, 'w', encoding='utf-8') as file:
         seen_content = set()
         for p in p_elements:
-            try:
-                text = p.text
+            text = p.text.strip()
 
-                links = p.find_elements(By.XPATH, ".//a[contains(@onclick, 'LS_Tip_Type_Bookmark') and not(contains(@onclick, 'LS_Tip_Type_Bookmark_bm')) and not(contains(@onclick, 'LS_Tip_Type_Bookmark_dc'))]")
+            # Check for links
+            links = p.find_elements(By.XPATH, ".//a[contains(@onclick, 'LS_Tip_Type_Bookmark') and not(contains(@onclick, 'LS_Tip_Type_Bookmark_bm')) and not(contains(@onclick, 'LS_Tip_Type_Bookmark_dc'))]")
 
-                if links:
-                    # If links are found, process them
-                    for i, link in enumerate(links):
-                        try:
-                            driver.execute_script("arguments[0].click();", link)
-                            
-                            # Wait for the popup or content to be visible
-                            WebDriverWait(driver, 10).until(
-                                EC.visibility_of_element_located((By.CSS_SELECTOR, '.ctOld.scroll_left'))
-                            )
-                            
-                            ct_old = driver.find_element(By.CSS_SELECTOR, '.ctOld.scroll_left')
-                            text_ct_old = ct_old.text.strip()
+            if links:
+                # If links are found, process them
+                for link in links:
+                    driver.execute_script("arguments[0].click();", link)
+                    
+                    # Wait for the popup or content to be visible
+                    WebDriverWait(driver, 10).until(
+                        EC.visibility_of_element_located((By.CSS_SELECTOR, '.ctOld.scroll_left'))
+                    )
+                    ct_old = driver.find_element(By.CSS_SELECTOR, '.ctOld.scroll_left')
+                    text_ct_old = ct_old.text.strip()
 
-                            ct_new = driver.find_element(By.CSS_SELECTOR, '.ct.scroll_right')
-                            text_ct_new = ct_new.text.strip()
+                    ct_new = driver.find_element(By.CSS_SELECTOR, '.ct.scroll_right')
+                    text_ct_new = ct_new.text.strip()
 
-                            # Create a unique content string
-                            content_string = f"{text_ct_old}\n\n{text_ct_new}\n{'-'*50}\n"
+                    # Create a unique content string
+                    content_string = f"{text_ct_old}\n\n{text_ct_new}\n{'*'*50}\n"
 
-                            if content_string not in seen_content:
-                                file.write(content_string)
-                                seen_content.add(content_string)
-                            time.sleep(1)
+                    if content_string not in seen_content:
+                        file.write(content_string)
+                        seen_content.add(content_string)
+                    time.sleep(5)
+                    close_button = driver.find_element(By.XPATH, "//span[@class='ui-icon ui-icon-closethick' and text()='close']")
+                    close_button.click()
+            else:
+                file.write(text + '\n')
 
-                        except Exception as e:
-                            logging.error(f"Lỗi khi xử lý liên kết {i + 1}: {e}")
-                else:
-                    # If no links are found, write the text directly
-                    file.write(text + '\n')
-
-            except Exception as e:
-                logging.error(f'Error processing paragraph: {e}')
 except Exception as e:
     logging.error(f'Error initializing WebDriver or processing the page: {e}')
 finally:
